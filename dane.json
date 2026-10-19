@@ -1,0 +1,266 @@
+{
+ "generated_at": "2026-10-19T09:52:07Z",
+ "rates": {
+  "POLSTR1M": 3.54858,
+  "WIBOR3M": 3.88,
+  "WIBOR6M": 3.88
+ },
+ "offers": [
+  {
+   "slug": "ing-jesien-na-swoim-latwy-start-zmienne",
+   "bank": "ING Bank Śląski",
+   "product": "Jesień na swoim – Łatwy start",
+   "rate_type": "variable",
+   "index": "POLSTR1M",
+   "commission": 0,
+   "min_amount": 0,
+   "tiers": [
+    {
+     "max_ltv": 80,
+     "margin": 2.0
+    }
+   ],
+   "conditions": "Wymaga ubezpieczenia nieruchomości i spłaty kredytu oraz konsultacji z ekspertem na wideo. Oferta „Jesień na swoim”.",
+   "source_url": "https://www.bankier.pl/cf/kredyty-mieszkaniowe",
+   "data_date": "2026-10-19"
+  },
+  {
+   "slug": "mbank-elastyczna-hipoteka-zmienne",
+   "bank": "mBank",
+   "product": "Elastyczna hipoteka",
+   "rate_type": "variable",
+   "index": "POLSTR1M",
+   "commission": 0,
+   "min_amount": 0,
+   "tiers": [
+    {
+     "max_ltv": 80,
+     "margin": 1.96
+    },
+    {
+     "max_ltv": 90,
+     "margin": 2.41
+    }
+   ],
+   "conditions": "Ceny dla aktywnych klientów mBanku; dodatkowe obniżki marży za wniosek w aplikacji i za energooszczędną nieruchomość.",
+   "source_url": "https://www.mbank.pl/indywidualny/kredyty/kredyty-hipoteczne/",
+   "data_date": "2026-10-19"
+  },
+  {
+   "slug": "mbank-stala-pewnosc-5-lat",
+   "bank": "mBank",
+   "product": "Stała Pewność 5 lat",
+   "rate_type": "fixed",
+   "fixed_years": 5,
+   "index": "POLSTR1M",
+   "commission": 0,
+   "min_amount": 0,
+   "tiers": [
+    {
+     "max_ltv": 90,
+     "margin": 2.41,
+     "fixed_rate": 7.03
+    }
+   ],
+   "conditions": "Ceny dla aktywnych klientów mBanku; stała stopa przez 5 lat, potem oprocentowanie zmienne.",
+   "source_url": "https://www.mbank.pl/indywidualny/kredyty/kredyty-hipoteczne/",
+   "data_date": "2026-10-19"
+  },
+  {
+   "slug": "bnp-paribas-kredyt-hipoteczny-zmienne",
+   "bank": "BNP Paribas",
+   "product": "Kredyt hipoteczny",
+   "rate_type": "variable",
+   "index": "WIBOR3M",
+   "commission": 0,
+   "min_amount": 0,
+   "tiers": [
+    {
+     "max_ltv": 80,
+     "margin": 1.65
+    }
+   ],
+   "conditions": "Kredyt na cele mieszkaniowe bez prowizji za udzielenie; ocena zdolności kredytowej decyduje o przyznaniu kredytu.",
+   "source_url": "https://www.bnpparibas.pl/_fileserver/item/1528468",
+   "data_date": "2026-10-19"
+  },
+  {
+   "slug": "bnp-paribas-kredyt-hipoteczny-stale-5-lat",
+   "bank": "BNP Paribas",
+   "product": "Kredyt hipoteczny – stała stopa 5 lat",
+   "rate_type": "fixed",
+   "fixed_years": 5,
+   "index": "WIBOR3M",
+   "commission": 0,
+   "min_amount": 0,
+   "tiers": [
+    {
+     "max_ltv": 80,
+     "margin": 1.65,
+     "fixed_rate": 6.5
+    }
+   ],
+   "conditions": "Stała stopa przez pierwsze 5 lat, potem oprocentowanie zmienne; bez prowizji za udzielenie.",
+   "source_url": "https://www.bnpparibas.pl/_fileserver/item/1528468",
+   "data_date": "2026-10-19"
+  },
+  {
+   "slug": "pekao-kredyt-hipoteczny-zmienne",
+   "bank": "Pekao",
+   "product": "Kredyt hipoteczny",
+   "rate_type": "variable",
+   "index": "POLSTR1M",
+   "commission": 0,
+   "min_amount": 0,
+   "tiers": [
+    {
+     "max_ltv": 65,
+     "margin": 1.99
+    },
+    {
+     "max_ltv": 80,
+     "margin": 2.09
+    }
+   ],
+   "conditions": "Obniżona marża wymaga rachunku z wpływami min. 3000 zł w każdym miesiącu.",
+   "source_url": "https://www.pekao.com.pl/klient-indywidualny/wlasne-mieszkanie-lub-dom/kredyt-hipoteczny.html",
+   "data_date": "2026-10-19"
+  },
+  {
+   "slug": "millennium-kredyt-hipoteczny-stale-5-lat",
+   "bank": "Bank Millennium",
+   "product": "Kredyt hipoteczny – stała stopa 5 lat",
+   "rate_type": "fixed",
+   "fixed_years": 5,
+   "index": "POLSTR1M",
+   "commission": 0,
+   "min_amount": 0,
+   "tiers": [
+    {
+     "max_ltv": 80,
+     "margin": 2.1,
+     "fixed_rate": 6.06
+    }
+   ],
+   "conditions": "Wymaga konta Millennium 360°, wpływu wynagrodzenia, płatności kartą i ubezpieczenia na życie; stała stopa 5 lat.",
+   "source_url": "https://www.bankmillennium.pl/delegate/managedfiles/644/latest",
+   "data_date": "2026-10-19"
+  },
+  {
+   "slug": "credit-agricole-prosto-do-domu-zmienne",
+   "bank": "Credit Agricole",
+   "product": "Prosto do domu",
+   "rate_type": "variable",
+   "index": "WIBOR3M",
+   "commission": 0,
+   "min_amount": 0,
+   "tiers": [
+    {
+     "max_ltv": 60,
+     "margin": 1.7
+    }
+   ],
+   "conditions": "Oferta „Prosto do domu” z wymaganymi ubezpieczeniami i usługami dodatkowymi banku, bez prowizji.",
+   "source_url": "https://www.credit-agricole.pl/klienci-indywidualni/kredyty-hipoteczne",
+   "data_date": "2026-10-19"
+  },
+  {
+   "slug": "credit-agricole-prosto-do-domu-stale-7-lat",
+   "bank": "Credit Agricole",
+   "product": "Prosto do domu – stała stopa 7 lat",
+   "rate_type": "fixed",
+   "fixed_years": 7,
+   "index": "WIBOR3M",
+   "commission": 0,
+   "min_amount": 0,
+   "tiers": [
+    {
+     "max_ltv": 60,
+     "margin": 1.74,
+     "fixed_rate": 6.74
+    }
+   ],
+   "conditions": "Stała stopa przez 7 lat, potem zmienna; wymagane ubezpieczenia i usługi dodatkowe banku, bez prowizji.",
+   "source_url": "https://www.credit-agricole.pl/klienci-indywidualni/kredyty-hipoteczne",
+   "data_date": "2026-10-19"
+  },
+  {
+   "slug": "unicredit-kredyt-hipoteczny-zmienne",
+   "bank": "UniCredit",
+   "product": "Kredyt hipoteczny",
+   "rate_type": "variable",
+   "index": "WIBOR6M",
+   "commission": 0,
+   "min_amount": 0,
+   "tiers": [
+    {
+     "max_ltv": 80,
+     "margin": 1.86
+    }
+   ],
+   "conditions": "Wymaga bezpłatnego konta osobistego w UniCredit i cesji ubezpieczenia nieruchomości.",
+   "source_url": "https://unicredit.pl/indywidualni/kredyty/kredyt-hipoteczny-mieszkaniowy",
+   "data_date": "2026-10-19"
+  },
+  {
+   "slug": "unicredit-kredyt-hipoteczny-stale-5-lat",
+   "bank": "UniCredit",
+   "product": "Kredyt hipoteczny – stała stopa 5 lat",
+   "rate_type": "fixed",
+   "fixed_years": 5,
+   "index": "WIBOR6M",
+   "commission": 0,
+   "min_amount": 0,
+   "tiers": [
+    {
+     "max_ltv": 80,
+     "margin": 1.86,
+     "fixed_rate": 6.49
+    }
+   ],
+   "conditions": "Wymaga bezpłatnego konta osobistego w UniCredit i cesji ubezpieczenia nieruchomości; stała stopa 5 lat.",
+   "source_url": "https://unicredit.pl/indywidualni/kredyty/kredyt-hipoteczny-mieszkaniowy",
+   "data_date": "2026-10-19"
+  },
+  {
+   "slug": "bos-twoj-dom-plus-zmienne",
+   "bank": "BOŚ Bank",
+   "product": "Twój Dom PLUS",
+   "rate_type": "variable",
+   "index": "WIBOR6M",
+   "commission": 0,
+   "min_amount": 100000,
+   "tiers": [
+    {
+     "max_ltv": 80,
+     "margin": 1.75
+    }
+   ],
+   "conditions": "Wymaga konta z kartą i bankowością elektroniczną oraz wpływów min. 6000 zł miesięcznie przez 8 lat; bez tego marża rośnie do 1,99%. Promocja „Marża niżej, dom bliżej” trwa do 31.10.2026.",
+   "source_url": "https://www.bosbank.pl/__data/assets/pdf_file/0030/76476/Regulamin-Promocji-Marza-nizej,-dom-blizej.pdf",
+   "data_date": "2026-10-19",
+   "valid_to": "2026-10-31"
+  },
+  {
+   "slug": "bos-twoj-dom-plus-stale-5-lat",
+   "bank": "BOŚ Bank",
+   "product": "Twój Dom PLUS – stała stopa 5 lat",
+   "rate_type": "fixed",
+   "fixed_years": 5,
+   "index": "WIBOR6M",
+   "commission": 0,
+   "min_amount": 100000,
+   "tiers": [
+    {
+     "max_ltv": 80,
+     "margin": 1.75,
+     "fixed_rate": 6.15
+    }
+   ],
+   "conditions": "Wymaga konta z kartą i bankowością elektroniczną oraz wpływów min. 6000 zł miesięcznie przez 8 lat; bez tego marża rośnie do 1,99%. Promocja „Marża niżej, dom bliżej” trwa do 31.10.2026.",
+   "source_url": "https://www.bosbank.pl/__data/assets/pdf_file/0030/76476/Regulamin-Promocji-Marza-nizej,-dom-blizej.pdf",
+   "data_date": "2026-10-19",
+   "valid_to": "2026-10-31"
+  }
+ ]
+}
