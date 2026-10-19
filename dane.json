@@ -18,6 +18,10 @@
     {
      "max_ltv": 80,
      "margin": 1.55
+    },
+    {
+     "max_ltv": 90,
+     "margin": 1.9
     }
    ],
    "conditions": "Oferta dla ofert cenowych wygenerowanych 7–28.10.2026; umowę trzeba podpisać w okresie ważności formularza informacyjnego.",
