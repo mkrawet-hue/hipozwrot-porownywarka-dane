@@ -146,6 +146,10 @@
     {
      "max_ltv": 80,
      "margin": 1.69
+    },
+    {
+     "max_ltv": 90,
+     "margin": 2.39
     }
    ],
    "conditions": "Wymaga konta osobistego z wpływem wynagrodzenia min. 3000 zł miesięcznie, min. 5 płatności kartą lub BLIK-iem miesięcznie, ubezpieczenia na życie i aktywnej aplikacji Alior Mobile.",
@@ -184,6 +188,10 @@
     {
      "max_ltv": 80,
      "margin": 1.99
+    },
+    {
+     "max_ltv": 90,
+     "margin": 2.39
     }
    ],
    "conditions": "Prowizja 0% przy posiadaniu konta w pakiecie z ubezpieczeniem VeloBezpieczny. Wniosek przez infolinię lub w oddziale; promocja z kartą podarunkową do 11.12.2026.",
@@ -343,6 +351,11 @@
      "max_ltv": 80,
      "margin": 1.9,
      "fixed_rate": 6.17
+    },
+    {
+     "max_ltv": 90,
+     "margin": 2.3,
+     "fixed_rate": 6.47
     }
    ],
    "extras": [
