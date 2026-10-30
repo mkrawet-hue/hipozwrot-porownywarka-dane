@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-29T05:48:27Z",
+  "generated_at": "2026-10-30T05:46:23Z",
   "rates": {
-    "POLSTR1M": 3.53973,
-    "WIBOR3M": 3.92,
-    "WIBOR6M": 3.98
+    "POLSTR1M": 3.5398,
+    "WIBOR3M": 3.91,
+    "WIBOR6M": 3.97
   },
   "offers": [
     {
@@ -26,11 +26,12 @@
       ],
       "conditions": "Dla segmentu Intensive; wymaga ubezpieczenia na życie, zdrowie i utratę pracy z oferty banku na 5 lat. Dodatkowe obniżki marży za wniosek cyfrowy i nieruchomość energooszczędną.",
       "source_url": "https://www.mbank.pl/indywidualny/kredyty/kredyty-hipoteczne/chce-kredyt-hipoteczny/",
-      "data_date": "2026-10-29",
+      "data_date": "2026-10-30",
       "appraisal": {
         "apartment": 400,
         "house": 700
-      }
+      },
+      "valid_to": "2027-01-27"
     },
     {
       "slug": "mbank-stala-pewnosc-5-lat",
@@ -55,11 +56,12 @@
       ],
       "conditions": "Dla segmentu Intensive; wymaga ubezpieczenia na życie, zdrowie i utratę pracy z oferty banku na 5 lat. Dodatkowe obniżki marży za wniosek cyfrowy i nieruchomość energooszczędną. Stała stopa przez 5 lat, potem zmienna.",
       "source_url": "https://www.mbank.pl/indywidualny/kredyty/kredyty-hipoteczne/chce-kredyt-hipoteczny/",
-      "data_date": "2026-10-29",
+      "data_date": "2026-10-30",
       "appraisal": {
         "apartment": 400,
         "house": 700
-      }
+      },
+      "valid_to": "2027-01-27"
     },
     {
       "slug": "alior-wlasne-m-zmienne",
@@ -81,7 +83,7 @@
       ],
       "conditions": "Wymaga konta osobistego z wpływem wynagrodzenia min. 3000 zł miesięcznie, min. 5 płatności kartą lub BLIK-iem miesięcznie, ubezpieczenia na życie i aktywnej aplikacji Alior Mobile.",
       "source_url": "https://www.aliorbank.pl/klienci-indywidualni/kredyty-hipoteczne/wlasne-m-w-wielkim-miescie.html",
-      "data_date": "2026-10-29",
+      "data_date": "2026-10-30",
       "appraisal": 250
     },
     {
@@ -102,7 +104,7 @@
       ],
       "conditions": "Wymaga konta osobistego z wpływem wynagrodzenia min. 3000 zł miesięcznie, min. 5 płatności kartą lub BLIK-iem miesięcznie, ubezpieczenia na życie i aktywnej aplikacji Alior Mobile. Stała stopa przez 5 lat, potem zmienna.",
       "source_url": "https://www.aliorbank.pl/klienci-indywidualni/kredyty-hipoteczne/wlasne-m-w-wielkim-miescie.html",
-      "data_date": "2026-10-29",
+      "data_date": "2026-10-30",
       "appraisal": 250
     },
     {
@@ -125,7 +127,7 @@
       ],
       "conditions": "Prowizja 0% przy posiadaniu konta w pakiecie z ubezpieczeniem VeloBezpieczny. Wniosek przez infolinię lub w oddziale; promocja z kartą podarunkową do 11.12.2026.",
       "source_url": "https://www.velobank.pl/klienci-indywidualni/kredyty/kredyt-hipoteczny.html",
-      "data_date": "2026-10-29"
+      "data_date": "2026-10-30"
     },
     {
       "slug": "velobank-velodom-stale-5-lat",
@@ -145,7 +147,7 @@
       ],
       "conditions": "Prowizja 0% przy posiadaniu konta w pakiecie z ubezpieczeniem VeloBezpieczny. Wniosek przez infolinię lub w oddziale; promocja z kartą podarunkową do 11.12.2026.",
       "source_url": "https://www.velobank.pl/klienci-indywidualni/kredyty/kredyt-hipoteczny.html",
-      "data_date": "2026-10-29"
+      "data_date": "2026-10-30"
     },
     {
       "slug": "bnp-paribas-kredyt-hipoteczny-zmienne",
@@ -163,7 +165,7 @@
       ],
       "conditions": "Warunki z ubezpieczeniem na życie i nieruchomości z oferty banku oraz kontem z wpływami min. 2500 zł miesięcznie; bez ubezpieczeń prowizja jest wyższa niż 0%.",
       "source_url": "https://www.bnpparibas.pl/klienci-indywidualni/kredyty/kredyt-hipoteczny-z-niska-marza",
-      "data_date": "2026-10-29",
+      "data_date": "2026-10-30",
       "life_insurance": {
         "pct_of_balance_monthly": 0.04,
         "label": "Ubezpieczenie na życie z oferty banku (0,04% salda miesięcznie)"
@@ -199,7 +201,7 @@
       ],
       "conditions": "Warunki z ubezpieczeniem na życie i nieruchomości z oferty banku oraz kontem z wpływami min. 2500 zł miesięcznie; bez ubezpieczeń prowizja jest wyższa niż 0%.",
       "source_url": "https://www.bnpparibas.pl/klienci-indywidualni/kredyty/kredyt-hipoteczny-z-niska-marza",
-      "data_date": "2026-10-29",
+      "data_date": "2026-10-30",
       "life_insurance": {
         "pct_of_balance_monthly": 0.04,
         "label": "Ubezpieczenie na życie z oferty banku (0,04% salda miesięcznie)"
@@ -240,7 +242,7 @@
       ],
       "conditions": "Obniżona marża wymaga konta Millennium 360° z wpływem i płatnościami kartą oraz ubezpieczenia na życie z banku na 36 miesięcy. Stała stopa przez 5 lat.",
       "source_url": "https://www.bankmillennium.pl/klienci-indywidualni/kredyty-hipoteczne/kredyt-hipoteczny",
-      "data_date": "2026-10-29"
+      "data_date": "2026-10-30"
     },
     {
       "slug": "credit-agricole-prosto-do-domu-zmienne",
@@ -258,7 +260,7 @@
       ],
       "conditions": "Wymagane ubezpieczenie na życie i nieruchomości oraz usługi dodatkowe banku; bez prowizji.",
       "source_url": "https://www.credit-agricole.pl/klienci-indywidualni/kredyty-hipoteczne",
-      "data_date": "2026-10-29",
+      "data_date": "2026-10-30",
       "appraisal": 590
     },
     {
@@ -279,50 +281,8 @@
       ],
       "conditions": "Wymagane ubezpieczenie na życie i nieruchomości oraz usługi dodatkowe banku; bez prowizji. Stała stopa przez 7 lat, potem zmienna.",
       "source_url": "https://www.credit-agricole.pl/klienci-indywidualni/kredyty-hipoteczne",
-      "data_date": "2026-10-29",
+      "data_date": "2026-10-30",
       "appraisal": 590
-    },
-    {
-      "slug": "erste-platinum-kredyt-mieszkaniowy-stale-5-lat",
-      "bank": "Erste Bank (dawny Santander)",
-      "product": "Erste Platinum",
-      "rate_type": "fixed",
-      "fixed_years": 5,
-      "index": "POLSTR1M",
-      "commission": 0,
-      "min_amount": 0,
-      "tiers": [
-        {
-          "max_ltv": 80,
-          "margin": 1.9,
-          "fixed_rate": 6.17
-        },
-        {
-          "max_ltv": 90,
-          "margin": 2.3,
-          "fixed_rate": 6.47
-        }
-      ],
-      "extras": [
-        {
-          "label": "Wycena nieruchomości (mieszkanie)",
-          "kind": "once_pln",
-          "value": 560
-        },
-        {
-          "label": "Prowadzenie rachunku osobistego (wg przykładu)",
-          "kind": "once_pln",
-          "value": 360
-        },
-        {
-          "label": "Karta kredytowa (wg przykładu)",
-          "kind": "once_pln",
-          "value": 450
-        }
-      ],
-      "conditions": "Oferta dla klientów segmentu Platinum; wymaga rachunku osobistego, karty kredytowej oraz ubezpieczeń z oferty banku (m.in. Spokojna Hipoteka, Locum Comfort). Stała stopa przez 5 lat.",
-      "source_url": "https://www.erste.pl/erste-platinum/finansowanie-potrzeb/kredyt-mieszkaniowy",
-      "data_date": "2026-10-29"
     },
     {
       "slug": "unicredit-kredyt-hipoteczny-zmienne",
@@ -340,7 +300,7 @@
       ],
       "conditions": "Wymaga bezpłatnego konta osobistego w UniCredit i cesji ubezpieczenia nieruchomości; wkład własny min. 20%.",
       "source_url": "https://unicredit.pl/indywidualni/kredyty/kredyt-hipoteczny-mieszkaniowy",
-      "data_date": "2026-10-29"
+      "data_date": "2026-10-30"
     },
     {
       "slug": "unicredit-kredyt-hipoteczny-stale-5-lat",
@@ -360,7 +320,7 @@
       ],
       "conditions": "Wymaga bezpłatnego konta osobistego w UniCredit i cesji ubezpieczenia nieruchomości; wkład własny min. 20%. Stała stopa przez 5 lat.",
       "source_url": "https://unicredit.pl/indywidualni/kredyty/kredyt-hipoteczny-mieszkaniowy",
-      "data_date": "2026-10-29"
+      "data_date": "2026-10-30"
     },
     {
       "slug": "bos-twoj-dom-plus-zmienne",
@@ -378,7 +338,7 @@
       ],
       "conditions": "Wymaga konta z kartą i bankowością elektroniczną oraz wpływów min. 6000 zł miesięcznie przez 8 lat; bez tego marża rośnie do 1,99%. Promocja „Marża niżej, dom bliżej” trwa do 31.10.2026 (wniosek złożony do tego dnia).",
       "source_url": "https://www.bosbank.pl/klient-indywidualny/pozyczki-i-kredyty/eko-hipoteka/kredyt-hipoteczny",
-      "data_date": "2026-10-29",
+      "data_date": "2026-10-30",
       "valid_to": "2026-10-31"
     },
     {
@@ -399,7 +359,7 @@
       ],
       "conditions": "Wymaga konta z kartą i bankowością elektroniczną oraz wpływów min. 6000 zł miesięcznie przez 8 lat; bez tego marża rośnie do 1,99%. Promocja „Marża niżej, dom bliżej” trwa do 31.10.2026 (wniosek złożony do tego dnia). Stała stopa przez 5 lat.",
       "source_url": "https://www.bosbank.pl/klient-indywidualny/pozyczki-i-kredyty/eko-hipoteka/kredyt-hipoteczny",
-      "data_date": "2026-10-29",
+      "data_date": "2026-10-30",
       "valid_to": "2026-10-31"
     },
     {
@@ -422,11 +382,12 @@
       ],
       "conditions": "Dla klientów aktywnych (produkt w mBanku od min. 6 miesięcy); wymaga ubezpieczenia na życie, zdrowie i utratę pracy z oferty banku na 5 lat. Promocja do 27.01.2027.",
       "source_url": "https://www.mbank.pl/indywidualny/kredyty/kredyty-hipoteczne/chce-kredyt-hipoteczny/",
-      "data_date": "2026-10-29",
+      "data_date": "2026-10-30",
       "appraisal": {
         "apartment": 400,
         "house": 700
-      }
+      },
+      "valid_to": "2027-01-27"
     },
     {
       "slug": "mbank-stala-pewnosc-active-5-lat",
@@ -451,32 +412,12 @@
       ],
       "conditions": "Dla klientów aktywnych (produkt w mBanku od min. 6 miesięcy); wymaga ubezpieczenia na życie, zdrowie i utratę pracy z oferty banku na 5 lat. Promocja do 27.01.2027. Stała stopa przez 5 lat, potem zmienna.",
       "source_url": "https://www.mbank.pl/indywidualny/kredyty/kredyty-hipoteczne/chce-kredyt-hipoteczny/",
-      "data_date": "2026-10-29",
+      "data_date": "2026-10-30",
       "appraisal": {
         "apartment": 400,
         "house": 700
-      }
-    },
-    {
-      "slug": "millennium-kredyt-hipoteczny-energooszczedny-stale-5-lat",
-      "bank": "Bank Millennium",
-      "product": "Kredyt na nieruchomość energooszczędną – stała stopa 5 lat",
-      "rate_type": "fixed",
-      "fixed_years": 5,
-      "index": "POLSTR1M",
-      "commission": 0,
-      "min_amount": 0,
-      "tiers": [
-        {
-          "max_ltv": 75,
-          "margin": 2.0,
-          "fixed_rate": 5.96
-        }
-      ],
-      "conditions": "Dotyczy nieruchomości o niskim zapotrzebowaniu na energię (potwierdzone dokumentami). Obniżona marża wymaga konta Millennium 360° z wpływem i płatnościami kartą oraz ubezpieczenia na życie z banku na 36 miesięcy. Promocja do 30.11.2026.",
-      "source_url": "https://www.bankmillennium.pl/klienci-indywidualni/kredyty-hipoteczne/kredyt-na-nieruchomosc-energooszczedna",
-      "data_date": "2026-10-29",
-      "valid_to": "2026-11-30"
+      },
+      "valid_to": "2027-01-27"
     },
     {
       "slug": "bank-bps-w-twoim-stylu-stale-5-lat",
@@ -496,7 +437,7 @@
       ],
       "conditions": "Wymaga konta w Twoim Stylu z kartą debetową, bankowości elektronicznej oraz ubezpieczenia nieruchomości i na życie (min. 5 lat) z oferty banku. Stawka 6,71% jest podstawowa; z kartą Mastercard APIS ELITE 6,61%, przy przeniesieniu kredytu 6,51%. Stawki zmieniają się co tydzień (ta: 26.10–1.11.2026).",
       "source_url": "https://www.bankbps.pl/klient-indywidualny/kredyty/kredyt-moj-dom",
-      "data_date": "2026-10-29",
+      "data_date": "2026-10-30",
       "valid_to": "2026-11-01"
     }
   ]
