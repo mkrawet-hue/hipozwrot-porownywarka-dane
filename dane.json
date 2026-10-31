@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-30T12:00:00Z",
+ "generated_at": "2026-10-31T05:46:47Z",
  "rates": {
   "POLSTR1M": 3.54909,
-  "WIBOR3M": 3.91,
+  "WIBOR3M": 3.9,
   "WIBOR6M": 3.97
  },
  "offers": [
@@ -51,7 +51,7 @@
    ],
    "conditions": "Dla segmentu Intensive; wymaga ubezpieczenia na życie, zdrowie i utratę pracy z oferty banku na 5 lat. Dodatkowe obniżki marży za wniosek cyfrowy i nieruchomość energooszczędną.",
    "source_url": "https://www.mbank.pl/indywidualny/kredyty/kredyty-hipoteczne/chce-kredyt-hipoteczny/",
-   "data_date": "2026-10-30",
+   "data_date": "2026-10-31",
    "appraisal": {
     "apartment": 400,
     "house": 700
@@ -81,7 +81,7 @@
    ],
    "conditions": "Dla segmentu Intensive; wymaga ubezpieczenia na życie, zdrowie i utratę pracy z oferty banku na 5 lat. Dodatkowe obniżki marży za wniosek cyfrowy i nieruchomość energooszczędną. Stała stopa przez 5 lat, potem zmienna.",
    "source_url": "https://www.mbank.pl/indywidualny/kredyty/kredyty-hipoteczne/chce-kredyt-hipoteczny/",
-   "data_date": "2026-10-30",
+   "data_date": "2026-10-31",
    "appraisal": {
     "apartment": 400,
     "house": 700
@@ -108,7 +108,7 @@
    ],
    "conditions": "Wymaga konta osobistego z wpływem wynagrodzenia min. 3000 zł miesięcznie, min. 5 płatności kartą lub BLIK-iem miesięcznie, ubezpieczenia na życie i aktywnej aplikacji Alior Mobile.",
    "source_url": "https://www.aliorbank.pl/klienci-indywidualni/kredyty-hipoteczne/wlasne-m-w-wielkim-miescie.html",
-   "data_date": "2026-10-30",
+   "data_date": "2026-10-31",
    "appraisal": 250
   },
   {
@@ -129,7 +129,7 @@
    ],
    "conditions": "Wymaga konta osobistego z wpływem wynagrodzenia min. 3000 zł miesięcznie, min. 5 płatności kartą lub BLIK-iem miesięcznie, ubezpieczenia na życie i aktywnej aplikacji Alior Mobile. Stała stopa przez 5 lat, potem zmienna.",
    "source_url": "https://www.aliorbank.pl/klienci-indywidualni/kredyty-hipoteczne/wlasne-m-w-wielkim-miescie.html",
-   "data_date": "2026-10-30",
+   "data_date": "2026-10-31",
    "appraisal": 250
   },
   {
@@ -267,7 +267,7 @@
    ],
    "conditions": "Obniżona marża wymaga konta Millennium 360° z wpływem i płatnościami kartą oraz ubezpieczenia na życie z banku na 36 miesięcy. Stała stopa przez 5 lat.",
    "source_url": "https://www.bankmillennium.pl/klienci-indywidualni/kredyty-hipoteczne/kredyt-hipoteczny",
-   "data_date": "2026-10-30"
+   "data_date": "2026-10-31"
   },
   {
    "slug": "credit-agricole-prosto-do-domu-zmienne",
@@ -407,7 +407,7 @@
    ],
    "conditions": "Dla klientów aktywnych (produkt w mBanku od min. 6 miesięcy); wymaga ubezpieczenia na życie, zdrowie i utratę pracy z oferty banku na 5 lat. Promocja do 27.01.2027.",
    "source_url": "https://www.mbank.pl/indywidualny/kredyty/kredyty-hipoteczne/chce-kredyt-hipoteczny/",
-   "data_date": "2026-10-30",
+   "data_date": "2026-10-31",
    "appraisal": {
     "apartment": 400,
     "house": 700
@@ -437,7 +437,7 @@
    ],
    "conditions": "Dla klientów aktywnych (produkt w mBanku od min. 6 miesięcy); wymaga ubezpieczenia na życie, zdrowie i utratę pracy z oferty banku na 5 lat. Promocja do 27.01.2027. Stała stopa przez 5 lat, potem zmienna.",
    "source_url": "https://www.mbank.pl/indywidualny/kredyty/kredyty-hipoteczne/chce-kredyt-hipoteczny/",
-   "data_date": "2026-10-30",
+   "data_date": "2026-10-31",
    "appraisal": {
     "apartment": 400,
     "house": 700
@@ -462,7 +462,7 @@
    ],
    "conditions": "Wymaga konta w Twoim Stylu z kartą debetową, bankowości elektronicznej oraz ubezpieczenia nieruchomości i na życie (min. 5 lat) z oferty banku. Stawka 6,71% jest podstawowa; z kartą Mastercard APIS ELITE 6,61%, przy przeniesieniu kredytu 6,51%. Stawki zmieniają się co tydzień (ta: 26.10–1.11.2026).",
    "source_url": "https://www.bankbps.pl/klient-indywidualny/kredyty/kredyt-moj-dom",
-   "data_date": "2026-10-30",
+   "data_date": "2026-10-31",
    "valid_to": "2026-11-01"
   }
  ]
