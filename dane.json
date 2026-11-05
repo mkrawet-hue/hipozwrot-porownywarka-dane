@@ -1,531 +1,531 @@
 {
- "generated_at": "2026-11-04T05:47:28Z",
- "rates": {
-  "POLSTR1M": 3.41574,
-  "WIBOR3M": 3.92,
-  "WIBOR6M": 3.97
- },
- "offers": [
-  {
-   "slug": "mbank-elastyczna-hipoteka-zmienne",
-   "bank": "mBank",
-   "product": "Elastyczna hipoteka",
-   "rate_type": "variable",
-   "index": "POLSTR1M",
-   "commission": 0,
-   "min_amount": 0,
-   "tiers": [
+  "generated_at": "2026-11-05T05:45:16Z",
+  "rates": {
+    "POLSTR1M": 3.42241,
+    "WIBOR3M": 3.91,
+    "WIBOR6M": 3.97
+  },
+  "offers": [
     {
-     "max_ltv": 80,
-     "margin": 1.96
+      "slug": "mbank-elastyczna-hipoteka-zmienne",
+      "bank": "mBank",
+      "product": "Elastyczna hipoteka",
+      "rate_type": "variable",
+      "index": "POLSTR1M",
+      "commission": 0,
+      "min_amount": 0,
+      "tiers": [
+        {
+          "max_ltv": 80,
+          "margin": 1.96
+        },
+        {
+          "max_ltv": 90,
+          "margin": 2.41
+        }
+      ],
+      "conditions": "Dla segmentu Intensive; wymaga ubezpieczenia na życie, zdrowie i utratę pracy z oferty banku na 5 lat. Dodatkowe obniżki marży za wniosek cyfrowy i nieruchomość energooszczędną.",
+      "source_url": "https://www.mbank.pl/indywidualny/kredyty/kredyty-hipoteczne/chce-kredyt-hipoteczny/",
+      "data_date": "2026-11-05",
+      "appraisal": {
+        "apartment": 400,
+        "house": 700
+      },
+      "valid_to": "2027-01-27"
     },
     {
-     "max_ltv": 90,
-     "margin": 2.41
-    }
-   ],
-   "conditions": "Dla segmentu Intensive; wymaga ubezpieczenia na życie, zdrowie i utratę pracy z oferty banku na 5 lat. Dodatkowe obniżki marży za wniosek cyfrowy i nieruchomość energooszczędną.",
-   "source_url": "https://www.mbank.pl/indywidualny/kredyty/kredyty-hipoteczne/chce-kredyt-hipoteczny/",
-   "data_date": "2026-11-04",
-   "appraisal": {
-    "apartment": 400,
-    "house": 700
-   },
-   "valid_to": "2027-01-27"
-  },
-  {
-   "slug": "mbank-stala-pewnosc-5-lat",
-   "bank": "mBank",
-   "product": "Stała Pewność 5 lat",
-   "rate_type": "fixed",
-   "fixed_years": 5,
-   "index": "POLSTR1M",
-   "commission": 0,
-   "min_amount": 0,
-   "tiers": [
-    {
-     "max_ltv": 80,
-     "margin": 1.96,
-     "fixed_rate": 6.87
+      "slug": "mbank-stala-pewnosc-5-lat",
+      "bank": "mBank",
+      "product": "Stała Pewność 5 lat",
+      "rate_type": "fixed",
+      "fixed_years": 5,
+      "index": "POLSTR1M",
+      "commission": 0,
+      "min_amount": 0,
+      "tiers": [
+        {
+          "max_ltv": 80,
+          "margin": 1.96,
+          "fixed_rate": 6.87
+        },
+        {
+          "max_ltv": 90,
+          "margin": 2.41,
+          "fixed_rate": 7.23
+        }
+      ],
+      "conditions": "Dla segmentu Intensive; wymaga ubezpieczenia na życie, zdrowie i utratę pracy z oferty banku na 5 lat. Dodatkowe obniżki marży za wniosek cyfrowy i nieruchomość energooszczędną. Stała stopa przez 5 lat, potem zmienna.",
+      "source_url": "https://www.mbank.pl/indywidualny/kredyty/kredyty-hipoteczne/chce-kredyt-hipoteczny/",
+      "data_date": "2026-11-05",
+      "appraisal": {
+        "apartment": 400,
+        "house": 700
+      },
+      "valid_to": "2026-11-08"
     },
     {
-     "max_ltv": 90,
-     "margin": 2.41,
-     "fixed_rate": 7.23
-    }
-   ],
-   "conditions": "Dla segmentu Intensive; wymaga ubezpieczenia na życie, zdrowie i utratę pracy z oferty banku na 5 lat. Dodatkowe obniżki marży za wniosek cyfrowy i nieruchomość energooszczędną. Stała stopa przez 5 lat, potem zmienna.",
-   "source_url": "https://www.mbank.pl/indywidualny/kredyty/kredyty-hipoteczne/chce-kredyt-hipoteczny/",
-   "data_date": "2026-11-04",
-   "appraisal": {
-    "apartment": 400,
-    "house": 700
-   },
-   "valid_to": "2026-11-08"
-  },
-  {
-   "slug": "alior-wlasne-m-zmienne",
-   "bank": "Alior Bank",
-   "product": "Własne M",
-   "rate_type": "variable",
-   "index": "POLSTR1M",
-   "commission": 0,
-   "min_amount": 0,
-   "tiers": [
-    {
-     "max_ltv": 80,
-     "margin": 1.89
-    }
-   ],
-   "conditions": "Wymaga konta osobistego z wpływem wynagrodzenia min. 3000 zł miesięcznie, min. 5 płatności kartą lub BLIK-iem miesięcznie, ubezpieczenia na życie i aktywnej aplikacji Alior Mobile.",
-   "source_url": "https://www.aliorbank.pl/klienci-indywidualni/kredyty-hipoteczne/wlasne-m-w-wielkim-miescie.html",
-   "data_date": "2026-11-04",
-   "appraisal": 250,
-   "account": {
-    "name": "Alior Konto Plus",
-    "fee_monthly": 0,
-    "condition": "wpływy min. 3 000 zł miesięcznie i min. 5 płatności kartą/BLIK"
-   }
-  },
-  {
-   "slug": "alior-wlasne-m-stale-5-lat",
-   "bank": "Alior Bank",
-   "product": "Własne M – stała stopa 5 lat",
-   "rate_type": "fixed",
-   "fixed_years": 5,
-   "index": "POLSTR1M",
-   "commission": 0,
-   "min_amount": 0,
-   "tiers": [
-    {
-     "max_ltv": 80,
-     "margin": 1.89,
-     "fixed_rate": 6.79
-    }
-   ],
-   "conditions": "Wymaga konta osobistego z wpływem wynagrodzenia min. 3000 zł miesięcznie, min. 5 płatności kartą lub BLIK-iem miesięcznie, ubezpieczenia na życie i aktywnej aplikacji Alior Mobile. Stała stopa przez 5 lat, potem zmienna.",
-   "source_url": "https://www.aliorbank.pl/klienci-indywidualni/kredyty-hipoteczne/wlasne-m-w-wielkim-miescie.html",
-   "data_date": "2026-11-04",
-   "appraisal": 250,
-   "account": {
-    "name": "Alior Konto Plus",
-    "fee_monthly": 0,
-    "condition": "wpływy min. 3 000 zł miesięcznie i min. 5 płatności kartą/BLIK"
-   }
-  },
-  {
-   "slug": "velobank-velodom-zmienne",
-   "bank": "VeloBank",
-   "product": "VeloDom",
-   "rate_type": "variable",
-   "index": "POLSTR1M",
-   "commission": 0,
-   "min_amount": 0,
-   "tiers": [
-    {
-     "max_ltv": 80,
-     "margin": 1.99
+      "slug": "alior-wlasne-m-zmienne",
+      "bank": "Alior Bank",
+      "product": "Własne M",
+      "rate_type": "variable",
+      "index": "POLSTR1M",
+      "commission": 0,
+      "min_amount": 0,
+      "tiers": [
+        {
+          "max_ltv": 80,
+          "margin": 1.89
+        }
+      ],
+      "conditions": "Wymaga konta osobistego z wpływem wynagrodzenia min. 3000 zł miesięcznie, min. 5 płatności kartą lub BLIK-iem miesięcznie, ubezpieczenia na życie i aktywnej aplikacji Alior Mobile.",
+      "source_url": "https://www.aliorbank.pl/klienci-indywidualni/kredyty-hipoteczne/wlasne-m-w-wielkim-miescie.html",
+      "data_date": "2026-11-05",
+      "appraisal": 250,
+      "account": {
+        "name": "Alior Konto Plus",
+        "fee_monthly": 0,
+        "condition": "wpływy min. 3 000 zł miesięcznie i min. 5 płatności kartą/BLIK"
+      }
     },
     {
-     "max_ltv": 90,
-     "margin": 2.39
-    }
-   ],
-   "conditions": "Prowizja 0% przy posiadaniu konta w pakiecie z ubezpieczeniem VeloBezpieczny. Wniosek przez infolinię lub w oddziale; promocja z kartą podarunkową do 11.12.2026.",
-   "source_url": "https://www.velobank.pl/klienci-indywidualni/kredyty/kredyt-hipoteczny.html",
-   "data_date": "2026-11-04",
-   "valid_to": "2026-12-11",
-   "life_insurance": {
-    "pct_of_amount_monthly": 0.0289,
-    "months": 60,
-    "label": "Ubezpieczenie VeloBezpieczny wymagane do 0% prowizji"
-   },
-   "account": {
-    "name": "Konto VeloBank w pakiecie",
-    "fee_monthly": 0,
-    "condition": "wpływy min. 3 000 zł miesięcznie"
-   }
-  },
-  {
-   "slug": "velobank-velodom-stale-5-lat",
-   "bank": "VeloBank",
-   "product": "VeloDom – stała stopa 5 lat",
-   "rate_type": "fixed",
-   "fixed_years": 5,
-   "index": "POLSTR1M",
-   "commission": 0,
-   "min_amount": 0,
-   "tiers": [
-    {
-     "max_ltv": 80,
-     "margin": 1.99,
-     "fixed_rate": 6.92
-    }
-   ],
-   "conditions": "Prowizja 0% przy posiadaniu konta w pakiecie z ubezpieczeniem VeloBezpieczny. Wniosek przez infolinię lub w oddziale; promocja z kartą podarunkową do 11.12.2026.",
-   "source_url": "https://www.velobank.pl/klienci-indywidualni/kredyty/kredyt-hipoteczny.html",
-   "data_date": "2026-11-04",
-   "valid_to": "2026-12-11",
-   "life_insurance": {
-    "pct_of_amount_monthly": 0.0289,
-    "months": 60,
-    "label": "Ubezpieczenie VeloBezpieczny wymagane do 0% prowizji"
-   },
-   "account": {
-    "name": "Konto VeloBank w pakiecie",
-    "fee_monthly": 0,
-    "condition": "wpływy min. 3 000 zł miesięcznie"
-   }
-  },
-  {
-   "slug": "bnp-paribas-kredyt-hipoteczny-zmienne",
-   "bank": "BNP Paribas",
-   "product": "Kredyt hipoteczny",
-   "rate_type": "variable",
-   "index": "WIBOR3M",
-   "commission": 0,
-   "min_amount": 0,
-   "tiers": [
-    {
-     "max_ltv": 60,
-     "margin": 2.5
-    }
-   ],
-   "conditions": "Warunki z ubezpieczeniem na życie i nieruchomości z oferty banku oraz kontem z wpływami min. 2500 zł miesięcznie; bez ubezpieczeń prowizja jest wyższa niż 0%.",
-   "source_url": "https://www.bnpparibas.pl/klienci-indywidualni/kredyty/kredyt-hipoteczny-z-niska-marza",
-   "data_date": "2026-11-04",
-   "life_insurance": {
-    "pct_of_balance_monthly": 0.04,
-    "label": "Ubezpieczenie na życie z oferty banku (0,04% salda miesięcznie)"
-   },
-   "appraisal": 400,
-   "account": {
-    "name": "Konto Otwarte na Ciebie",
-    "fee_monthly": 12,
-    "condition": "wpływy min. 2500 zł miesięcznie"
-   },
-   "property_insurance": {
-    "pct_yearly": 0.09,
-    "base": "value",
-    "frequency": "yearly",
-    "label": "Ubezpieczenie nieruchomości z oferty banku (0,0075% sumy ubezpieczenia miesięcznie)"
-   }
-  },
-  {
-   "slug": "bnp-paribas-kredyt-hipoteczny-stale-5-lat",
-   "bank": "BNP Paribas",
-   "product": "Kredyt hipoteczny – stała stopa 5 lat",
-   "rate_type": "fixed",
-   "fixed_years": 5,
-   "index": "WIBOR3M",
-   "commission": 0,
-   "min_amount": 0,
-   "tiers": [
-    {
-     "max_ltv": 60,
-     "margin": 2.5,
-     "fixed_rate": 7.5
-    }
-   ],
-   "conditions": "Warunki z ubezpieczeniem na życie i nieruchomości z oferty banku oraz kontem z wpływami min. 2500 zł miesięcznie; bez ubezpieczeń prowizja jest wyższa niż 0%.",
-   "source_url": "https://www.bnpparibas.pl/klienci-indywidualni/kredyty/kredyt-hipoteczny-z-niska-marza",
-   "data_date": "2026-11-04",
-   "life_insurance": {
-    "pct_of_balance_monthly": 0.04,
-    "label": "Ubezpieczenie na życie z oferty banku (0,04% salda miesięcznie)"
-   },
-   "appraisal": 400,
-   "account": {
-    "name": "Konto Otwarte na Ciebie",
-    "fee_monthly": 12,
-    "condition": "wpływy min. 2500 zł miesięcznie"
-   },
-   "property_insurance": {
-    "pct_yearly": 0.09,
-    "base": "value",
-    "frequency": "yearly",
-    "label": "Ubezpieczenie nieruchomości z oferty banku (0,0075% sumy ubezpieczenia miesięcznie)"
-   }
-  },
-  {
-   "slug": "millennium-kredyt-hipoteczny-stale-5-lat",
-   "bank": "Bank Millennium",
-   "product": "Kredyt hipoteczny – stała stopa 5 lat",
-   "rate_type": "fixed",
-   "fixed_years": 5,
-   "index": "POLSTR1M",
-   "commission": 0,
-   "min_amount": 0,
-   "tiers": [
-    {
-     "max_ltv": 62,
-     "margin": 2.1,
-     "fixed_rate": 6.06
+      "slug": "alior-wlasne-m-stale-5-lat",
+      "bank": "Alior Bank",
+      "product": "Własne M – stała stopa 5 lat",
+      "rate_type": "fixed",
+      "fixed_years": 5,
+      "index": "POLSTR1M",
+      "commission": 0,
+      "min_amount": 0,
+      "tiers": [
+        {
+          "max_ltv": 80,
+          "margin": 1.89,
+          "fixed_rate": 6.79
+        }
+      ],
+      "conditions": "Wymaga konta osobistego z wpływem wynagrodzenia min. 3000 zł miesięcznie, min. 5 płatności kartą lub BLIK-iem miesięcznie, ubezpieczenia na życie i aktywnej aplikacji Alior Mobile. Stała stopa przez 5 lat, potem zmienna.",
+      "source_url": "https://www.aliorbank.pl/klienci-indywidualni/kredyty-hipoteczne/wlasne-m-w-wielkim-miescie.html",
+      "data_date": "2026-11-05",
+      "appraisal": 250,
+      "account": {
+        "name": "Alior Konto Plus",
+        "fee_monthly": 0,
+        "condition": "wpływy min. 3 000 zł miesięcznie i min. 5 płatności kartą/BLIK"
+      }
     },
     {
-     "max_ltv": 80,
-     "margin": 2.1,
-     "fixed_rate": 6.4
-    }
-   ],
-   "conditions": "Obniżona marża wymaga konta Millennium 360° z wpływem i płatnościami kartą oraz ubezpieczenia na życie z banku na 36 miesięcy. Stała stopa przez 5 lat.",
-   "source_url": "https://www.bankmillennium.pl/klienci-indywidualni/kredyty-hipoteczne/kredyt-hipoteczny",
-   "data_date": "2026-11-04"
-  },
-  {
-   "slug": "credit-agricole-prosto-do-domu-zmienne",
-   "bank": "Credit Agricole",
-   "product": "Prosto do domu",
-   "rate_type": "variable",
-   "index": "POLSTR1M",
-   "commission": 0,
-   "min_amount": 0,
-   "tiers": [
-    {
-     "max_ltv": 60,
-     "margin": 1.7
-    }
-   ],
-   "conditions": "Wymagane ubezpieczenie na życie i nieruchomości oraz usługi dodatkowe banku; bez prowizji.",
-   "source_url": "https://www.credit-agricole.pl/klienci-indywidualni/kredyty-hipoteczne",
-   "data_date": "2026-11-04",
-   "appraisal": 590
-  },
-  {
-   "slug": "credit-agricole-prosto-do-domu-stale-7-lat",
-   "bank": "Credit Agricole",
-   "product": "Prosto do domu – stała stopa 7 lat",
-   "rate_type": "fixed",
-   "fixed_years": 7,
-   "index": "POLSTR1M",
-   "commission": 0,
-   "min_amount": 0,
-   "tiers": [
-    {
-     "max_ltv": 60,
-     "margin": 1.74,
-     "fixed_rate": 6.75
-    }
-   ],
-   "conditions": "Wymagane ubezpieczenie na życie i nieruchomości oraz usługi dodatkowe banku; bez prowizji. Stała stopa przez 7 lat, potem zmienna.",
-   "source_url": "https://www.credit-agricole.pl/klienci-indywidualni/kredyty-hipoteczne",
-   "data_date": "2026-11-04",
-   "appraisal": 590
-  },
-  {
-   "slug": "unicredit-kredyt-hipoteczny-zmienne",
-   "bank": "UniCredit",
-   "product": "Kredyt hipoteczny",
-   "rate_type": "variable",
-   "index": "WIBOR6M",
-   "commission": 0,
-   "min_amount": 0,
-   "tiers": [
-    {
-     "max_ltv": 80,
-     "margin": 1.86
-    }
-   ],
-   "conditions": "Wymaga bezpłatnego konta osobistego w UniCredit i cesji ubezpieczenia nieruchomości; wkład własny min. 20%.",
-   "source_url": "https://unicredit.pl/indywidualni/kredyty/kredyt-hipoteczny-mieszkaniowy",
-   "data_date": "2026-11-04"
-  },
-  {
-   "slug": "unicredit-kredyt-hipoteczny-stale-5-lat",
-   "bank": "UniCredit",
-   "product": "Kredyt hipoteczny – stała stopa 5 lat",
-   "rate_type": "fixed",
-   "fixed_years": 5,
-   "index": "WIBOR6M",
-   "commission": 0,
-   "min_amount": 0,
-   "tiers": [
-    {
-     "max_ltv": 80,
-     "margin": 1.86,
-     "fixed_rate": 6.49
-    }
-   ],
-   "conditions": "Wymaga bezpłatnego konta osobistego w UniCredit i cesji ubezpieczenia nieruchomości; wkład własny min. 20%. Stała stopa przez 5 lat.",
-   "source_url": "https://unicredit.pl/indywidualni/kredyty/kredyt-hipoteczny-mieszkaniowy",
-   "data_date": "2026-11-04"
-  },
-  {
-   "slug": "mbank-elastyczna-hipoteka-active-zmienne",
-   "bank": "mBank",
-   "product": "Elastyczna hipoteka (Active)",
-   "rate_type": "variable",
-   "index": "POLSTR1M",
-   "commission": 0,
-   "min_amount": 0,
-   "tiers": [
-    {
-     "max_ltv": 80,
-     "margin": 2.06
+      "slug": "velobank-velodom-zmienne",
+      "bank": "VeloBank",
+      "product": "VeloDom",
+      "rate_type": "variable",
+      "index": "POLSTR1M",
+      "commission": 0,
+      "min_amount": 0,
+      "tiers": [
+        {
+          "max_ltv": 80,
+          "margin": 1.99
+        },
+        {
+          "max_ltv": 90,
+          "margin": 2.39
+        }
+      ],
+      "conditions": "Prowizja 0% przy posiadaniu konta w pakiecie z ubezpieczeniem VeloBezpieczny. Wniosek przez infolinię lub w oddziale; promocja z kartą podarunkową do 11.12.2026.",
+      "source_url": "https://www.velobank.pl/klienci-indywidualni/kredyty/kredyt-hipoteczny.html",
+      "data_date": "2026-11-05",
+      "valid_to": "2026-12-11",
+      "life_insurance": {
+        "pct_of_amount_monthly": 0.0289,
+        "months": 60,
+        "label": "Ubezpieczenie VeloBezpieczny wymagane do 0% prowizji"
+      },
+      "account": {
+        "name": "Konto VeloBank w pakiecie",
+        "fee_monthly": 0,
+        "condition": "wpływy min. 3 000 zł miesięcznie"
+      }
     },
     {
-     "max_ltv": 90,
-     "margin": 2.51
-    }
-   ],
-   "conditions": "Dla klientów aktywnych (produkt w mBanku od min. 6 miesięcy); wymaga ubezpieczenia na życie, zdrowie i utratę pracy z oferty banku na 5 lat. Promocja do 27.01.2027.",
-   "source_url": "https://www.mbank.pl/indywidualny/kredyty/kredyty-hipoteczne/chce-kredyt-hipoteczny/",
-   "data_date": "2026-11-04",
-   "appraisal": {
-    "apartment": 400,
-    "house": 700
-   },
-   "valid_to": "2027-01-27"
-  },
-  {
-   "slug": "mbank-stala-pewnosc-active-5-lat",
-   "bank": "mBank",
-   "product": "Stała Pewność 5 lat (Active)",
-   "rate_type": "fixed",
-   "fixed_years": 5,
-   "index": "POLSTR1M",
-   "commission": 0,
-   "min_amount": 0,
-   "tiers": [
-    {
-     "max_ltv": 80,
-     "margin": 2.06,
-     "fixed_rate": 6.97
+      "slug": "velobank-velodom-stale-5-lat",
+      "bank": "VeloBank",
+      "product": "VeloDom – stała stopa 5 lat",
+      "rate_type": "fixed",
+      "fixed_years": 5,
+      "index": "POLSTR1M",
+      "commission": 0,
+      "min_amount": 0,
+      "tiers": [
+        {
+          "max_ltv": 80,
+          "margin": 1.99,
+          "fixed_rate": 6.92
+        }
+      ],
+      "conditions": "Prowizja 0% przy posiadaniu konta w pakiecie z ubezpieczeniem VeloBezpieczny. Wniosek przez infolinię lub w oddziale; promocja z kartą podarunkową do 11.12.2026.",
+      "source_url": "https://www.velobank.pl/klienci-indywidualni/kredyty/kredyt-hipoteczny.html",
+      "data_date": "2026-11-05",
+      "valid_to": "2026-12-11",
+      "life_insurance": {
+        "pct_of_amount_monthly": 0.0289,
+        "months": 60,
+        "label": "Ubezpieczenie VeloBezpieczny wymagane do 0% prowizji"
+      },
+      "account": {
+        "name": "Konto VeloBank w pakiecie",
+        "fee_monthly": 0,
+        "condition": "wpływy min. 3 000 zł miesięcznie"
+      }
     },
     {
-     "max_ltv": 90,
-     "margin": 2.51,
-     "fixed_rate": 7.33
-    }
-   ],
-   "conditions": "Dla klientów aktywnych (produkt w mBanku od min. 6 miesięcy); wymaga ubezpieczenia na życie, zdrowie i utratę pracy z oferty banku na 5 lat. Promocja do 27.01.2027. Stała stopa przez 5 lat, potem zmienna.",
-   "source_url": "https://www.mbank.pl/indywidualny/kredyty/kredyty-hipoteczne/chce-kredyt-hipoteczny/",
-   "data_date": "2026-11-04",
-   "appraisal": {
-    "apartment": 400,
-    "house": 700
-   },
-   "valid_to": "2026-11-08"
-  },
-  {
-   "slug": "ing-jesien-na-swoim-latwy-start-zmienne",
-   "bank": "ING Bank Śląski",
-   "product": "Jesień na swoim – Łatwy start",
-   "rate_type": "variable",
-   "index": "POLSTR1M",
-   "commission": 0,
-   "min_amount": 100000,
-   "tiers": [
+      "slug": "bnp-paribas-kredyt-hipoteczny-zmienne",
+      "bank": "BNP Paribas",
+      "product": "Kredyt hipoteczny",
+      "rate_type": "variable",
+      "index": "WIBOR3M",
+      "commission": 0,
+      "min_amount": 0,
+      "tiers": [
+        {
+          "max_ltv": 60,
+          "margin": 2.5
+        }
+      ],
+      "conditions": "Warunki z ubezpieczeniem na życie i nieruchomości z oferty banku oraz kontem z wpływami min. 2500 zł miesięcznie; bez ubezpieczeń prowizja jest wyższa niż 0%.",
+      "source_url": "https://www.bnpparibas.pl/klienci-indywidualni/kredyty/kredyt-hipoteczny-z-niska-marza",
+      "data_date": "2026-11-05",
+      "life_insurance": {
+        "pct_of_balance_monthly": 0.04,
+        "label": "Ubezpieczenie na życie z oferty banku (0,04% salda miesięcznie)"
+      },
+      "appraisal": 400,
+      "account": {
+        "name": "Konto Otwarte na Ciebie",
+        "fee_monthly": 12,
+        "condition": "wpływy min. 2500 zł miesięcznie"
+      },
+      "property_insurance": {
+        "pct_yearly": 0.09,
+        "base": "value",
+        "frequency": "yearly",
+        "label": "Ubezpieczenie nieruchomości z oferty banku (0,0075% sumy ubezpieczenia miesięcznie)"
+      }
+    },
     {
-     "max_ltv": 80,
-     "margin": 1.79
-    }
-   ],
-   "appraisal": {
-    "apartment": 560,
-    "house": 870
-   },
-   "conditions": "Wymaga konta z regularnymi wpływami, ubezpieczenia oraz bankowości internetowej z weryfikacją behawioralną. Oferta obowiązuje do 22.11.2026.",
-   "source_url": "https://www.ing.pl/indywidualni/kredyty-i-pozyczki/kredyt-hipoteczny/oferty-i-oprocentowanie",
-   "data_date": "2026-11-02",
-   "valid_to": "2026-11-22"
-  },
-  {
-   "slug": "ing-jesien-na-swoim-lekka-rata-zmienne",
-   "bank": "ING Bank Śląski",
-   "product": "Jesień na swoim – Lekka rata",
-   "rate_type": "variable",
-   "index": "POLSTR1M",
-   "commission": 1.5,
-   "min_amount": 100000,
-   "tiers": [
+      "slug": "bnp-paribas-kredyt-hipoteczny-stale-5-lat",
+      "bank": "BNP Paribas",
+      "product": "Kredyt hipoteczny – stała stopa 5 lat",
+      "rate_type": "fixed",
+      "fixed_years": 5,
+      "index": "WIBOR3M",
+      "commission": 0,
+      "min_amount": 0,
+      "tiers": [
+        {
+          "max_ltv": 60,
+          "margin": 2.5,
+          "fixed_rate": 7.5
+        }
+      ],
+      "conditions": "Warunki z ubezpieczeniem na życie i nieruchomości z oferty banku oraz kontem z wpływami min. 2500 zł miesięcznie; bez ubezpieczeń prowizja jest wyższa niż 0%.",
+      "source_url": "https://www.bnpparibas.pl/klienci-indywidualni/kredyty/kredyt-hipoteczny-z-niska-marza",
+      "data_date": "2026-11-05",
+      "life_insurance": {
+        "pct_of_balance_monthly": 0.04,
+        "label": "Ubezpieczenie na życie z oferty banku (0,04% salda miesięcznie)"
+      },
+      "appraisal": 400,
+      "account": {
+        "name": "Konto Otwarte na Ciebie",
+        "fee_monthly": 12,
+        "condition": "wpływy min. 2500 zł miesięcznie"
+      },
+      "property_insurance": {
+        "pct_yearly": 0.09,
+        "base": "value",
+        "frequency": "yearly",
+        "label": "Ubezpieczenie nieruchomości z oferty banku (0,0075% sumy ubezpieczenia miesięcznie)"
+      }
+    },
     {
-     "max_ltv": 80,
-     "margin": 1.74
-    }
-   ],
-   "appraisal": {
-    "apartment": 560,
-    "house": 870
-   },
-   "conditions": "Wymaga konta z regularnymi wpływami, ubezpieczenia oraz bankowości internetowej z weryfikacją behawioralną. Oferta obowiązuje do 22.11.2026. Prowizja 1,5% w zamian za niższą marżę.",
-   "source_url": "https://www.ing.pl/indywidualni/kredyty-i-pozyczki/kredyt-hipoteczny/oferty-i-oprocentowanie",
-   "data_date": "2026-11-02",
-   "valid_to": "2026-11-22"
-  },
-  {
-   "slug": "ing-dom-energooszczedny-zmienne",
-   "bank": "ING Bank Śląski",
-   "product": "Kredyt na dom energooszczędny",
-   "rate_type": "variable",
-   "index": "POLSTR1M",
-   "commission": 0,
-   "min_amount": 100000,
-   "tiers": [
+      "slug": "millennium-kredyt-hipoteczny-stale-5-lat",
+      "bank": "Bank Millennium",
+      "product": "Kredyt hipoteczny – stała stopa 5 lat",
+      "rate_type": "fixed",
+      "fixed_years": 5,
+      "index": "POLSTR1M",
+      "commission": 0,
+      "min_amount": 0,
+      "tiers": [
+        {
+          "max_ltv": 62,
+          "margin": 2.1,
+          "fixed_rate": 6.06
+        },
+        {
+          "max_ltv": 80,
+          "margin": 2.1,
+          "fixed_rate": 6.4
+        }
+      ],
+      "conditions": "Obniżona marża wymaga konta Millennium 360° z wpływem i płatnościami kartą oraz ubezpieczenia na życie z banku na 36 miesięcy. Stała stopa przez 5 lat.",
+      "source_url": "https://www.bankmillennium.pl/klienci-indywidualni/kredyty-hipoteczne/kredyt-hipoteczny",
+      "data_date": "2026-11-05"
+    },
     {
-     "max_ltv": 80,
-     "margin": 1.57
-    }
-   ],
-   "appraisal": {
-    "apartment": 560,
-    "house": 870
-   },
-   "conditions": "Dla domu o udokumentowanym niskim zużyciu energii; wymaga konta z regularnymi wpływami, ubezpieczenia i bankowości internetowej. Oferta obowiązuje do 22.11.2026.",
-   "source_url": "https://www.ing.pl/indywidualni/kredyty-i-pozyczki/kredyt-hipoteczny/oferty-i-oprocentowanie",
-   "data_date": "2026-11-02",
-   "valid_to": "2026-11-22"
-  },
-  {
-   "slug": "pko-bank-hipoteczny-zmienne",
-   "bank": "PKO Bank Hipoteczny",
-   "product": "Własny Kąt",
-   "rate_type": "variable",
-   "index": "POLSTR1M",
-   "commission": 0,
-   "min_amount": 0,
-   "tiers": [
+      "slug": "credit-agricole-prosto-do-domu-zmienne",
+      "bank": "Credit Agricole",
+      "product": "Prosto do domu",
+      "rate_type": "variable",
+      "index": "POLSTR1M",
+      "commission": 0,
+      "min_amount": 0,
+      "tiers": [
+        {
+          "max_ltv": 60,
+          "margin": 1.7
+        }
+      ],
+      "conditions": "Wymagane ubezpieczenie na życie i nieruchomości oraz usługi dodatkowe banku; bez prowizji.",
+      "source_url": "https://www.credit-agricole.pl/klienci-indywidualni/kredyty-hipoteczne",
+      "data_date": "2026-11-04",
+      "appraisal": 590
+    },
     {
-     "max_ltv": 71,
-     "margin": 1.65
-    }
-   ],
-   "appraisal": 400,
-   "account": {
-    "name": "Konto za Zero",
-    "fee_monthly": 0,
-    "condition": "wpływy min. 3 000 zł miesięcznie"
-   },
-   "conditions": "Wymaga konta z wpływami min. 3 000 zł miesięcznie i ubezpieczenia na życie z oferty banku.",
-   "source_url": "https://www.pkobp.pl/klienci-indywidualni/kredyty-mieszkaniowe/wlasny-kat-hipoteczny/",
-   "data_date": "2026-11-04"
-  },
-  {
-   "slug": "pko-bp-wlasny-kat-stale-5-lat",
-   "bank": "PKO Bank Polski",
-   "product": "Własny Kąt – stała stopa 5 lat",
-   "rate_type": "fixed",
-   "fixed_years": 5,
-   "index": "POLSTR1M",
-   "commission": 0,
-   "min_amount": 0,
-   "tiers": [
+      "slug": "credit-agricole-prosto-do-domu-stale-7-lat",
+      "bank": "Credit Agricole",
+      "product": "Prosto do domu – stała stopa 7 lat",
+      "rate_type": "fixed",
+      "fixed_years": 7,
+      "index": "POLSTR1M",
+      "commission": 0,
+      "min_amount": 0,
+      "tiers": [
+        {
+          "max_ltv": 60,
+          "margin": 1.74,
+          "fixed_rate": 6.75
+        }
+      ],
+      "conditions": "Wymagane ubezpieczenie na życie i nieruchomości oraz usługi dodatkowe banku; bez prowizji. Stała stopa przez 7 lat, potem zmienna.",
+      "source_url": "https://www.credit-agricole.pl/klienci-indywidualni/kredyty-hipoteczne",
+      "data_date": "2026-11-04",
+      "appraisal": 590
+    },
     {
-     "max_ltv": 63,
-     "margin": 1.65,
-     "fixed_rate": 6.09
+      "slug": "unicredit-kredyt-hipoteczny-zmienne",
+      "bank": "UniCredit",
+      "product": "Kredyt hipoteczny",
+      "rate_type": "variable",
+      "index": "WIBOR6M",
+      "commission": 0,
+      "min_amount": 0,
+      "tiers": [
+        {
+          "max_ltv": 80,
+          "margin": 1.86
+        }
+      ],
+      "conditions": "Wymaga bezpłatnego konta osobistego w UniCredit i cesji ubezpieczenia nieruchomości; wkład własny min. 20%.",
+      "source_url": "https://unicredit.pl/indywidualni/kredyty/kredyt-hipoteczny-mieszkaniowy",
+      "data_date": "2026-11-04"
+    },
+    {
+      "slug": "unicredit-kredyt-hipoteczny-stale-5-lat",
+      "bank": "UniCredit",
+      "product": "Kredyt hipoteczny – stała stopa 5 lat",
+      "rate_type": "fixed",
+      "fixed_years": 5,
+      "index": "WIBOR6M",
+      "commission": 0,
+      "min_amount": 0,
+      "tiers": [
+        {
+          "max_ltv": 80,
+          "margin": 1.86,
+          "fixed_rate": 6.49
+        }
+      ],
+      "conditions": "Wymaga bezpłatnego konta osobistego w UniCredit i cesji ubezpieczenia nieruchomości; wkład własny min. 20%. Stała stopa przez 5 lat.",
+      "source_url": "https://unicredit.pl/indywidualni/kredyty/kredyt-hipoteczny-mieszkaniowy",
+      "data_date": "2026-11-04"
+    },
+    {
+      "slug": "mbank-elastyczna-hipoteka-active-zmienne",
+      "bank": "mBank",
+      "product": "Elastyczna hipoteka (Active)",
+      "rate_type": "variable",
+      "index": "POLSTR1M",
+      "commission": 0,
+      "min_amount": 0,
+      "tiers": [
+        {
+          "max_ltv": 80,
+          "margin": 2.06
+        },
+        {
+          "max_ltv": 90,
+          "margin": 2.51
+        }
+      ],
+      "conditions": "Dla klientów aktywnych (produkt w mBanku od min. 6 miesięcy); wymaga ubezpieczenia na życie, zdrowie i utratę pracy z oferty banku na 5 lat. Promocja do 27.01.2027.",
+      "source_url": "https://www.mbank.pl/indywidualny/kredyty/kredyty-hipoteczne/chce-kredyt-hipoteczny/",
+      "data_date": "2026-11-05",
+      "appraisal": {
+        "apartment": 400,
+        "house": 700
+      },
+      "valid_to": "2027-01-27"
+    },
+    {
+      "slug": "mbank-stala-pewnosc-active-5-lat",
+      "bank": "mBank",
+      "product": "Stała Pewność 5 lat (Active)",
+      "rate_type": "fixed",
+      "fixed_years": 5,
+      "index": "POLSTR1M",
+      "commission": 0,
+      "min_amount": 0,
+      "tiers": [
+        {
+          "max_ltv": 80,
+          "margin": 2.06,
+          "fixed_rate": 6.97
+        },
+        {
+          "max_ltv": 90,
+          "margin": 2.51,
+          "fixed_rate": 7.33
+        }
+      ],
+      "conditions": "Dla klientów aktywnych (produkt w mBanku od min. 6 miesięcy); wymaga ubezpieczenia na życie, zdrowie i utratę pracy z oferty banku na 5 lat. Promocja do 27.01.2027. Stała stopa przez 5 lat, potem zmienna.",
+      "source_url": "https://www.mbank.pl/indywidualny/kredyty/kredyty-hipoteczne/chce-kredyt-hipoteczny/",
+      "data_date": "2026-11-05",
+      "appraisal": {
+        "apartment": 400,
+        "house": 700
+      },
+      "valid_to": "2026-11-08"
+    },
+    {
+      "slug": "ing-jesien-na-swoim-latwy-start-zmienne",
+      "bank": "ING Bank Śląski",
+      "product": "Jesień na swoim – Łatwy start",
+      "rate_type": "variable",
+      "index": "POLSTR1M",
+      "commission": 0,
+      "min_amount": 100000,
+      "tiers": [
+        {
+          "max_ltv": 80,
+          "margin": 1.79
+        }
+      ],
+      "appraisal": {
+        "apartment": 560,
+        "house": 870
+      },
+      "conditions": "Wymaga konta z regularnymi wpływami, ubezpieczenia oraz bankowości internetowej z weryfikacją behawioralną. Oferta obowiązuje do 22.11.2026.",
+      "source_url": "https://www.ing.pl/indywidualni/kredyty-i-pozyczki/kredyt-hipoteczny/oferty-i-oprocentowanie",
+      "data_date": "2026-11-02",
+      "valid_to": "2026-11-22"
+    },
+    {
+      "slug": "ing-jesien-na-swoim-lekka-rata-zmienne",
+      "bank": "ING Bank Śląski",
+      "product": "Jesień na swoim – Lekka rata",
+      "rate_type": "variable",
+      "index": "POLSTR1M",
+      "commission": 1.5,
+      "min_amount": 100000,
+      "tiers": [
+        {
+          "max_ltv": 80,
+          "margin": 1.74
+        }
+      ],
+      "appraisal": {
+        "apartment": 560,
+        "house": 870
+      },
+      "conditions": "Wymaga konta z regularnymi wpływami, ubezpieczenia oraz bankowości internetowej z weryfikacją behawioralną. Oferta obowiązuje do 22.11.2026. Prowizja 1,5% w zamian za niższą marżę.",
+      "source_url": "https://www.ing.pl/indywidualni/kredyty-i-pozyczki/kredyt-hipoteczny/oferty-i-oprocentowanie",
+      "data_date": "2026-11-02",
+      "valid_to": "2026-11-22"
+    },
+    {
+      "slug": "ing-dom-energooszczedny-zmienne",
+      "bank": "ING Bank Śląski",
+      "product": "Kredyt na dom energooszczędny",
+      "rate_type": "variable",
+      "index": "POLSTR1M",
+      "commission": 0,
+      "min_amount": 100000,
+      "tiers": [
+        {
+          "max_ltv": 80,
+          "margin": 1.57
+        }
+      ],
+      "appraisal": {
+        "apartment": 560,
+        "house": 870
+      },
+      "conditions": "Dla domu o udokumentowanym niskim zużyciu energii; wymaga konta z regularnymi wpływami, ubezpieczenia i bankowości internetowej. Oferta obowiązuje do 22.11.2026.",
+      "source_url": "https://www.ing.pl/indywidualni/kredyty-i-pozyczki/kredyt-hipoteczny/oferty-i-oprocentowanie",
+      "data_date": "2026-11-02",
+      "valid_to": "2026-11-22"
+    },
+    {
+      "slug": "pko-bank-hipoteczny-zmienne",
+      "bank": "PKO Bank Hipoteczny",
+      "product": "Własny Kąt",
+      "rate_type": "variable",
+      "index": "POLSTR1M",
+      "commission": 0,
+      "min_amount": 0,
+      "tiers": [
+        {
+          "max_ltv": 71,
+          "margin": 1.65
+        }
+      ],
+      "appraisal": 400,
+      "account": {
+        "name": "Konto za Zero",
+        "fee_monthly": 0,
+        "condition": "wpływy min. 3 000 zł miesięcznie"
+      },
+      "conditions": "Wymaga konta z wpływami min. 3 000 zł miesięcznie i ubezpieczenia na życie z oferty banku.",
+      "source_url": "https://www.pkobp.pl/klienci-indywidualni/kredyty-mieszkaniowe/wlasny-kat-hipoteczny/",
+      "data_date": "2026-11-04"
+    },
+    {
+      "slug": "pko-bp-wlasny-kat-stale-5-lat",
+      "bank": "PKO Bank Polski",
+      "product": "Własny Kąt – stała stopa 5 lat",
+      "rate_type": "fixed",
+      "fixed_years": 5,
+      "index": "POLSTR1M",
+      "commission": 0,
+      "min_amount": 0,
+      "tiers": [
+        {
+          "max_ltv": 63,
+          "margin": 1.65,
+          "fixed_rate": 6.09
+        }
+      ],
+      "appraisal": 400,
+      "account": {
+        "name": "Konto za Zero",
+        "fee_monthly": 0,
+        "condition": "wpływy min. 3 000 zł miesięcznie"
+      },
+      "conditions": "Obniżona stała stopa dla wniosków wygenerowanych do 6.11.2026. Wymaga konta z wpływami min. 3 000 zł miesięcznie i ubezpieczenia na życie z oferty banku.",
+      "source_url": "https://www.pkobp.pl/k/jesienna-promocja-kredytu-hipotecznego",
+      "data_date": "2026-11-04",
+      "valid_to": "2026-11-06"
     }
-   ],
-   "appraisal": 400,
-   "account": {
-    "name": "Konto za Zero",
-    "fee_monthly": 0,
-    "condition": "wpływy min. 3 000 zł miesięcznie"
-   },
-   "conditions": "Obniżona stała stopa dla wniosków wygenerowanych do 6.11.2026. Wymaga konta z wpływami min. 3 000 zł miesięcznie i ubezpieczenia na życie z oferty banku.",
-   "source_url": "https://www.pkobp.pl/k/jesienna-promocja-kredytu-hipotecznego",
-   "data_date": "2026-11-04",
-   "valid_to": "2026-11-06"
-  }
- ]
+  ]
 }
