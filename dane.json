@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T05:51:07Z",
+  "generated_at": "2026-11-16T05:51:38Z",
   "rates": {
     "POLSTR1M": 3.48375,
     "WIBOR3M": 3.89,
@@ -113,7 +113,7 @@
       ],
       "conditions": "Prowizja 0% przy posiadaniu konta w pakiecie z ubezpieczeniem VeloBezpieczny. Wniosek przez infolinię lub w oddziale; promocja z kartą podarunkową do 11.12.2026.",
       "source_url": "https://www.velobank.pl/klienci-indywidualni/kredyty/kredyt-hipoteczny.html",
-      "data_date": "2026-11-15",
+      "data_date": "2026-11-16",
       "valid_to": "2026-12-11",
       "life_insurance": {
         "pct_of_amount_monthly": 0.0289,
@@ -144,7 +144,7 @@
       ],
       "conditions": "Prowizja 0% przy posiadaniu konta w pakiecie z ubezpieczeniem VeloBezpieczny. Wniosek przez infolinię lub w oddziale; promocja z kartą podarunkową do 11.12.2026.",
       "source_url": "https://www.velobank.pl/klienci-indywidualni/kredyty/kredyt-hipoteczny.html",
-      "data_date": "2026-11-15",
+      "data_date": "2026-11-16",
       "valid_to": "2026-12-11",
       "life_insurance": {
         "pct_of_amount_monthly": 0.0289,
@@ -173,7 +173,7 @@
       ],
       "conditions": "Warunki z ubezpieczeniem na życie i nieruchomości z oferty banku oraz kontem z wpływami min. 2500 zł miesięcznie; bez ubezpieczeń prowizja jest wyższa niż 0%.",
       "source_url": "https://www.bnpparibas.pl/klienci-indywidualni/kredyty/kredyt-hipoteczny-z-niska-marza",
-      "data_date": "2026-11-15",
+      "data_date": "2026-11-16",
       "life_insurance": {
         "pct_of_balance_monthly": 0.04,
         "label": "Ubezpieczenie na życie z oferty banku (0,04% salda miesięcznie)"
@@ -209,7 +209,7 @@
       ],
       "conditions": "Warunki z ubezpieczeniem na życie i nieruchomości z oferty banku oraz kontem z wpływami min. 2500 zł miesięcznie; bez ubezpieczeń prowizja jest wyższa niż 0%.",
       "source_url": "https://www.bnpparibas.pl/klienci-indywidualni/kredyty/kredyt-hipoteczny-z-niska-marza",
-      "data_date": "2026-11-15",
+      "data_date": "2026-11-16",
       "life_insurance": {
         "pct_of_balance_monthly": 0.04,
         "label": "Ubezpieczenie na życie z oferty banku (0,04% salda miesięcznie)"
@@ -243,7 +243,7 @@
       ],
       "conditions": "Wymagane ubezpieczenie na życie i nieruchomości oraz usługi dodatkowe banku; bez prowizji.",
       "source_url": "https://www.credit-agricole.pl/klienci-indywidualni/kredyty-hipoteczne",
-      "data_date": "2026-11-15",
+      "data_date": "2026-11-16",
       "appraisal": 590
     },
     {
@@ -264,7 +264,7 @@
       ],
       "conditions": "Wymagane ubezpieczenie na życie i nieruchomości oraz usługi dodatkowe banku; bez prowizji. Stała stopa przez 7 lat, potem zmienna.",
       "source_url": "https://www.credit-agricole.pl/klienci-indywidualni/kredyty-hipoteczne",
-      "data_date": "2026-11-15",
+      "data_date": "2026-11-16",
       "appraisal": 590
     },
     {
@@ -350,7 +350,7 @@
         "condition": "regularne wpływy na konto"
       },
       "source_url": "https://www.ing.pl/indywidualni/kredyty-i-pozyczki/kredyt-hipoteczny/oferty-i-oprocentowanie",
-      "data_date": "2026-11-15"
+      "data_date": "2026-11-16"
     },
     {
       "slug": "ing-jesien-na-swoim-latwy-start-stale-5-lat",
@@ -380,7 +380,71 @@
         "condition": "regularne wpływy na konto"
       },
       "source_url": "https://www.ing.pl/indywidualni/kredyty-i-pozyczki/kredyt-hipoteczny/oferty-i-oprocentowanie-stale",
-      "data_date": "2026-11-15"
+      "data_date": "2026-11-16"
+    },
+    {
+      "bank": "PKO Bank Polski",
+      "commission": 0,
+      "min_amount": 0,
+      "index": "POLSTR1M",
+      "source_url": "https://pkobp.pl/api/public/7af546c2-00d2-4687-a047-a51ea916ec66.pdf",
+      "data_date": "2026-11-16",
+      "valid_to": "2026-12-07",
+      "appraisal": 400,
+      "life_insurance": {
+        "pct_of_amount_monthly": 0.024,
+        "months": 60,
+        "label": "Ubezpieczenie PKO Życie (Pakiet Życie) przez pierwsze 5 lat"
+      },
+      "account": {
+        "name": "Konto za Zero",
+        "fee_monthly": 0,
+        "condition": "wpływy min. 3 000 zł miesięcznie i min. 5 transakcji kartą/BLIK"
+      },
+      "on_resign": "bez ubezpieczenia na życie po 5 latach: marża +0,2 pkt proc.",
+      "slug": "pko-bp-cyfrowy-kredyt-hipoteczny",
+      "product": "Cyfrowy Kredyt Hipoteczny",
+      "rate_type": "variable",
+      "tiers": [
+        {
+          "max_ltv": 80,
+          "margin": 1.89
+        }
+      ],
+      "conditions": "Wniosek cyfrowy; wymaga konta z wpływami min. 3 000 zł miesięcznie, 5 transakcji kartą lub BLIK-iem miesięcznie oraz ubezpieczenia na życie PKO Życie. Dla wniosków do 7.12.2026."
+    },
+    {
+      "bank": "PKO Bank Polski",
+      "commission": 0,
+      "min_amount": 0,
+      "index": "POLSTR1M",
+      "source_url": "https://pkobp.pl/api/public/7af546c2-00d2-4687-a047-a51ea916ec66.pdf",
+      "data_date": "2026-11-16",
+      "valid_to": "2026-12-07",
+      "appraisal": 400,
+      "life_insurance": {
+        "pct_of_amount_monthly": 0.024,
+        "months": 60,
+        "label": "Ubezpieczenie PKO Życie (Pakiet Życie) przez pierwsze 5 lat"
+      },
+      "account": {
+        "name": "Konto za Zero",
+        "fee_monthly": 0,
+        "condition": "wpływy min. 3 000 zł miesięcznie i min. 5 transakcji kartą/BLIK"
+      },
+      "on_resign": "bez ubezpieczenia na życie po 5 latach: marża +0,2 pkt proc.",
+      "slug": "pko-bp-cyfrowy-kredyt-hipoteczny-stale-5-lat",
+      "product": "Cyfrowy Kredyt Hipoteczny – stała stopa 5 lat",
+      "rate_type": "fixed",
+      "fixed_years": 5,
+      "tiers": [
+        {
+          "max_ltv": 80,
+          "margin": 1.89,
+          "fixed_rate": 6.3
+        }
+      ],
+      "conditions": "Promocja: stała stopa niższa o 1 pkt proc. przez 5 lat; wymaga konta z wpływami min. 3 000 zł miesięcznie, 5 transakcji kartą lub BLIK-iem miesięcznie i ubezpieczenia na życie PKO Życie. Dla wniosków do 7.12.2026."
     }
   ]
 }
