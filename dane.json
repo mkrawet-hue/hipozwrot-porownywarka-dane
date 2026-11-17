@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-16T05:51:38Z",
+  "generated_at": "2026-11-17T18:31:44Z",
   "rates": {
-    "POLSTR1M": 3.48375,
-    "WIBOR3M": 3.89,
+    "POLSTR1M": 3.48981,
+    "WIBOR3M": 3.9,
     "WIBOR6M": 3.98
   },
   "offers": [
@@ -26,7 +26,7 @@
       ],
       "conditions": "Dla segmentu Intensive; wymaga ubezpieczenia na życie, zdrowie i utratę pracy z oferty banku na 5 lat. Dodatkowe obniżki marży za wniosek cyfrowy i nieruchomość energooszczędną.",
       "source_url": "https://www.mbank.pl/indywidualny/kredyty/kredyty-hipoteczne/chce-kredyt-hipoteczny/",
-      "data_date": "2026-11-14",
+      "data_date": "2026-11-17",
       "appraisal": {
         "apartment": 400,
         "house": 700
@@ -57,7 +57,7 @@
       ],
       "conditions": "Wymaga konta osobistego z wpływem wynagrodzenia min. 3000 zł miesięcznie, min. 5 płatności kartą lub BLIK-iem miesięcznie, ubezpieczenia na życie i aktywnej aplikacji Alior Mobile.",
       "source_url": "https://www.aliorbank.pl/klienci-indywidualni/kredyty-hipoteczne/wlasne-m-w-wielkim-miescie.html",
-      "data_date": "2026-11-13",
+      "data_date": "2026-11-17",
       "appraisal": 250,
       "account": {
         "name": "Alior Konto Plus",
@@ -84,7 +84,7 @@
       ],
       "conditions": "Wymaga konta osobistego z wpływem wynagrodzenia min. 3000 zł miesięcznie, min. 5 płatności kartą lub BLIK-iem miesięcznie, ubezpieczenia na życie i aktywnej aplikacji Alior Mobile. Stała stopa przez 5 lat, potem zmienna.",
       "source_url": "https://www.aliorbank.pl/klienci-indywidualni/kredyty-hipoteczne/wlasne-m-w-wielkim-miescie.html",
-      "data_date": "2026-11-13",
+      "data_date": "2026-11-17",
       "appraisal": 250,
       "account": {
         "name": "Alior Konto Plus",
@@ -111,10 +111,10 @@
           "margin": 2.39
         }
       ],
-      "conditions": "Prowizja 0% przy posiadaniu konta w pakiecie z ubezpieczeniem VeloBezpieczny. Wniosek przez infolinię lub w oddziale; promocja z kartą podarunkową do 11.12.2026.",
+      "conditions": "Prowizja 0% przy posiadaniu konta w pakiecie z ubezpieczeniem VeloBezpieczny. Wniosek przez infolinię lub w oddziale; promocja z kartą podarunkową do 20.11.2026.",
       "source_url": "https://www.velobank.pl/klienci-indywidualni/kredyty/kredyt-hipoteczny.html",
-      "data_date": "2026-11-16",
-      "valid_to": "2026-12-11",
+      "data_date": "2026-11-17",
+      "valid_to": "2026-11-20",
       "life_insurance": {
         "pct_of_amount_monthly": 0.0289,
         "months": 60,
@@ -142,10 +142,10 @@
           "fixed_rate": 6.92
         }
       ],
-      "conditions": "Prowizja 0% przy posiadaniu konta w pakiecie z ubezpieczeniem VeloBezpieczny. Wniosek przez infolinię lub w oddziale; promocja z kartą podarunkową do 11.12.2026.",
+      "conditions": "Prowizja 0% przy posiadaniu konta w pakiecie z ubezpieczeniem VeloBezpieczny. Wniosek przez infolinię lub w oddziale; promocja z kartą podarunkową do 20.11.2026.",
       "source_url": "https://www.velobank.pl/klienci-indywidualni/kredyty/kredyt-hipoteczny.html",
-      "data_date": "2026-11-16",
-      "valid_to": "2026-12-11",
+      "data_date": "2026-11-17",
+      "valid_to": "2026-11-20",
       "life_insurance": {
         "pct_of_amount_monthly": 0.0289,
         "months": 60,
@@ -167,13 +167,13 @@
       "min_amount": 0,
       "tiers": [
         {
-          "max_ltv": 60,
+          "max_ltv": 80,
           "margin": 2.5
         }
       ],
       "conditions": "Warunki z ubezpieczeniem na życie i nieruchomości z oferty banku oraz kontem z wpływami min. 2500 zł miesięcznie; bez ubezpieczeń prowizja jest wyższa niż 0%.",
       "source_url": "https://www.bnpparibas.pl/klienci-indywidualni/kredyty/kredyt-hipoteczny-z-niska-marza",
-      "data_date": "2026-11-16",
+      "data_date": "2026-11-17",
       "life_insurance": {
         "pct_of_balance_monthly": 0.04,
         "label": "Ubezpieczenie na życie z oferty banku (0,04% salda miesięcznie)"
@@ -202,14 +202,14 @@
       "min_amount": 0,
       "tiers": [
         {
-          "max_ltv": 60,
+          "max_ltv": 80,
           "margin": 2.5,
           "fixed_rate": 7.5
         }
       ],
       "conditions": "Warunki z ubezpieczeniem na życie i nieruchomości z oferty banku oraz kontem z wpływami min. 2500 zł miesięcznie; bez ubezpieczeń prowizja jest wyższa niż 0%.",
       "source_url": "https://www.bnpparibas.pl/klienci-indywidualni/kredyty/kredyt-hipoteczny-z-niska-marza",
-      "data_date": "2026-11-16",
+      "data_date": "2026-11-17",
       "life_insurance": {
         "pct_of_balance_monthly": 0.04,
         "label": "Ubezpieczenie na życie z oferty banku (0,04% salda miesięcznie)"
@@ -237,13 +237,13 @@
       "min_amount": 0,
       "tiers": [
         {
-          "max_ltv": 60,
+          "max_ltv": 80,
           "margin": 1.7
         }
       ],
       "conditions": "Wymagane ubezpieczenie na życie i nieruchomości oraz usługi dodatkowe banku; bez prowizji.",
       "source_url": "https://www.credit-agricole.pl/klienci-indywidualni/kredyty-hipoteczne",
-      "data_date": "2026-11-16",
+      "data_date": "2026-11-17",
       "appraisal": 590
     },
     {
@@ -257,14 +257,14 @@
       "min_amount": 0,
       "tiers": [
         {
-          "max_ltv": 60,
+          "max_ltv": 80,
           "margin": 1.74,
           "fixed_rate": 6.75
         }
       ],
       "conditions": "Wymagane ubezpieczenie na życie i nieruchomości oraz usługi dodatkowe banku; bez prowizji. Stała stopa przez 7 lat, potem zmienna.",
       "source_url": "https://www.credit-agricole.pl/klienci-indywidualni/kredyty-hipoteczne",
-      "data_date": "2026-11-16",
+      "data_date": "2026-11-17",
       "appraisal": 590
     },
     {
@@ -287,7 +287,7 @@
       ],
       "conditions": "Dla klientów aktywnych (produkt w mBanku od min. 6 miesięcy); wymaga ubezpieczenia na życie, zdrowie i utratę pracy z oferty banku na 5 lat. Promocja do 27.01.2027.",
       "source_url": "https://www.mbank.pl/indywidualny/kredyty/kredyty-hipoteczne/chce-kredyt-hipoteczny/",
-      "data_date": "2026-11-14",
+      "data_date": "2026-11-17",
       "appraisal": {
         "apartment": 400,
         "house": 700
@@ -317,7 +317,7 @@
       ],
       "conditions": "Dla segmentu Intensive; wymaga ubezpieczenia na życie, zdrowie i utratę pracy z oferty banku na 5 lat. Dodatkowe obniżki za wniosek cyfrowy i nieruchomość energooszczędną.",
       "source_url": "https://www.mbank.pl/indywidualny/kredyty/kredyty-hipoteczne/chce-kredyt-hipoteczny/",
-      "data_date": "2026-11-14",
+      "data_date": "2026-11-17",
       "appraisal": {
         "apartment": 400,
         "house": 700
@@ -330,7 +330,7 @@
       "index": "POLSTR1M",
       "tiers": [
         {
-          "max_ltv": 67,
+          "max_ltv": 80,
           "margin": 1.79
         }
       ],
@@ -350,7 +350,7 @@
         "condition": "regularne wpływy na konto"
       },
       "source_url": "https://www.ing.pl/indywidualni/kredyty-i-pozyczki/kredyt-hipoteczny/oferty-i-oprocentowanie",
-      "data_date": "2026-11-16"
+      "data_date": "2026-11-17"
     },
     {
       "slug": "ing-jesien-na-swoim-latwy-start-stale-5-lat",
@@ -359,7 +359,7 @@
       "index": "POLSTR1M",
       "tiers": [
         {
-          "max_ltv": 67,
+          "max_ltv": 80,
           "margin": 1.79,
           "fixed_rate": 6.07
         }
@@ -380,7 +380,7 @@
         "condition": "regularne wpływy na konto"
       },
       "source_url": "https://www.ing.pl/indywidualni/kredyty-i-pozyczki/kredyt-hipoteczny/oferty-i-oprocentowanie-stale",
-      "data_date": "2026-11-16"
+      "data_date": "2026-11-17"
     },
     {
       "bank": "PKO Bank Polski",
@@ -388,7 +388,7 @@
       "min_amount": 0,
       "index": "POLSTR1M",
       "source_url": "https://pkobp.pl/api/public/7af546c2-00d2-4687-a047-a51ea916ec66.pdf",
-      "data_date": "2026-11-16",
+      "data_date": "2026-11-17",
       "valid_to": "2026-12-07",
       "appraisal": 400,
       "life_insurance": {
@@ -419,7 +419,7 @@
       "min_amount": 0,
       "index": "POLSTR1M",
       "source_url": "https://pkobp.pl/api/public/7af546c2-00d2-4687-a047-a51ea916ec66.pdf",
-      "data_date": "2026-11-16",
+      "data_date": "2026-11-17",
       "valid_to": "2026-12-07",
       "appraisal": 400,
       "life_insurance": {
