@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-19T05:48:02Z",
+  "generated_at": "2026-11-20T05:47:56Z",
   "rates": {
-    "POLSTR1M": 3.49494,
-    "WIBOR3M": 3.89,
+    "POLSTR1M": 3.48543,
+    "WIBOR3M": 3.9,
     "WIBOR6M": 3.98
   },
   "offers": [
@@ -26,7 +26,7 @@
       ],
       "conditions": "Dla segmentu Intensive; wymaga ubezpieczenia na życie, zdrowie i utratę pracy z oferty banku na 5 lat. Dodatkowe obniżki marży za wniosek cyfrowy i nieruchomość energooszczędną.",
       "source_url": "https://www.mbank.pl/indywidualny/kredyty/kredyty-hipoteczne/chce-kredyt-hipoteczny/",
-      "data_date": "2026-11-19",
+      "data_date": "2026-11-20",
       "appraisal": {
         "apartment": 400,
         "house": 700
@@ -43,13 +43,21 @@
       "min_amount": 0,
       "tiers": [
         {
+          "max_ltv": 50,
+          "margin": 1.69
+        },
+        {
           "max_ltv": 80,
           "margin": 1.89
+        },
+        {
+          "max_ltv": 90,
+          "margin": 2.59
         }
       ],
       "conditions": "Wymaga konta osobistego z wpływem wynagrodzenia min. 3000 zł miesięcznie, min. 5 płatności kartą lub BLIK-iem miesięcznie, ubezpieczenia na życie i aktywnej aplikacji Alior Mobile.",
       "source_url": "https://www.aliorbank.pl/klienci-indywidualni/kredyty-hipoteczne/wlasne-m-w-wielkim-miescie.html",
-      "data_date": "2026-11-19",
+      "data_date": "2026-11-20",
       "appraisal": 250,
       "account": {
         "name": "Alior Konto Plus",
@@ -76,7 +84,7 @@
       ],
       "conditions": "Wymaga konta osobistego z wpływem wynagrodzenia min. 3000 zł miesięcznie, min. 5 płatności kartą lub BLIK-iem miesięcznie, ubezpieczenia na życie i aktywnej aplikacji Alior Mobile. Stała stopa przez 5 lat, potem zmienna.",
       "source_url": "https://www.aliorbank.pl/klienci-indywidualni/kredyty-hipoteczne/wlasne-m-w-wielkim-miescie.html",
-      "data_date": "2026-11-19",
+      "data_date": "2026-11-20",
       "appraisal": 250,
       "account": {
         "name": "Alior Konto Plus",
@@ -101,7 +109,7 @@
       ],
       "conditions": "Prowizja 0% przy posiadaniu konta w pakiecie z ubezpieczeniem VeloBezpieczny. Wniosek przez infolinię lub w oddziale; promocja z kartą podarunkową do 20.11.2026.",
       "source_url": "https://www.velobank.pl/klienci-indywidualni/kredyty/kredyt-hipoteczny.html",
-      "data_date": "2026-11-19",
+      "data_date": "2026-11-20",
       "valid_to": "2026-11-20",
       "life_insurance": {
         "pct_of_amount_monthly": 0.0289,
@@ -132,7 +140,7 @@
       ],
       "conditions": "Prowizja 0% przy posiadaniu konta w pakiecie z ubezpieczeniem VeloBezpieczny. Wniosek przez infolinię lub w oddziale; promocja z kartą podarunkową do 20.11.2026.",
       "source_url": "https://www.velobank.pl/klienci-indywidualni/kredyty/kredyt-hipoteczny.html",
-      "data_date": "2026-11-19",
+      "data_date": "2026-11-20",
       "valid_to": "2026-11-20",
       "life_insurance": {
         "pct_of_amount_monthly": 0.0289,
@@ -161,7 +169,7 @@
       ],
       "conditions": "Warunki z ubezpieczeniem na życie i nieruchomości z oferty banku oraz kontem z wpływami min. 2500 zł miesięcznie; bez ubezpieczenia na życie prowizja jest wyższa niż 0%.",
       "source_url": "https://www.bnpparibas.pl/klienci-indywidualni/kredyty/kredyt-hipoteczny-z-niska-marza",
-      "data_date": "2026-11-19",
+      "data_date": "2026-11-20",
       "life_insurance": {
         "pct_of_balance_monthly": 0.04,
         "label": "Ubezpieczenie na życie z oferty banku (0,04% salda miesięcznie)"
@@ -199,7 +207,7 @@
       ],
       "conditions": "Warunki z ubezpieczeniem na życie i nieruchomości z oferty banku oraz kontem z wpływami min. 2500 zł miesięcznie; bez ubezpieczenia na życie prowizja jest wyższa niż 0%. Stała stopa przez 5 lat, potem zmienna.",
       "source_url": "https://www.bnpparibas.pl/klienci-indywidualni/kredyty/kredyt-hipoteczny-z-niska-marza",
-      "data_date": "2026-11-19",
+      "data_date": "2026-11-20",
       "life_insurance": {
         "pct_of_balance_monthly": 0.04,
         "label": "Ubezpieczenie na życie z oferty banku (0,04% salda miesięcznie)"
@@ -235,7 +243,7 @@
       ],
       "conditions": "Wymagane ubezpieczenie na życie i nieruchomości oraz usługi dodatkowe banku; bez prowizji.",
       "source_url": "https://www.credit-agricole.pl/klienci-indywidualni/kredyty-hipoteczne",
-      "data_date": "2026-11-19",
+      "data_date": "2026-11-20",
       "appraisal": 590
     },
     {
@@ -256,7 +264,7 @@
       ],
       "conditions": "Wymagane ubezpieczenie na życie i nieruchomości oraz usługi dodatkowe banku; bez prowizji. Stała stopa przez 7 lat, potem zmienna.",
       "source_url": "https://www.credit-agricole.pl/klienci-indywidualni/kredyty-hipoteczne",
-      "data_date": "2026-11-19",
+      "data_date": "2026-11-20",
       "appraisal": 590
     },
     {
@@ -279,7 +287,7 @@
       ],
       "conditions": "Dla klientów aktywnych (produkt w mBanku od min. 6 miesięcy); wymaga ubezpieczenia na życie, zdrowie i utratę pracy z oferty banku na 5 lat. Promocja do 27.01.2027.",
       "source_url": "https://www.mbank.pl/indywidualny/kredyty/kredyty-hipoteczne/chce-kredyt-hipoteczny/",
-      "data_date": "2026-11-19",
+      "data_date": "2026-11-20",
       "appraisal": {
         "apartment": 400,
         "house": 700
@@ -307,14 +315,14 @@
           "margin": 2.41
         }
       ],
-      "conditions": "Dla segmentu Intensive; wymaga ubezpieczenia na życie, zdrowie i utratę pracy z oferty banku na 5 lat. Dodatkowe obniżki za wniosek cyfrowy i nieruchomość energooszczędną.",
+      "conditions": "Dla segmentu Intensive; wymaga ubezpieczenia na życie, zdrowie i utratę pracy z oferty banku na 5 lat. Dodatkowe obniżki za wniosek cyfrowy i nieruchomość energooszczędną. Stawki stałe ważne do 23.11.2026.",
       "source_url": "https://www.mbank.pl/indywidualny/kredyty/kredyty-hipoteczne/chce-kredyt-hipoteczny/",
-      "data_date": "2026-11-19",
+      "data_date": "2026-11-20",
       "appraisal": {
         "apartment": 400,
         "house": 700
       },
-      "valid_to": "2027-01-27"
+      "valid_to": "2026-11-23"
     },
     {
       "slug": "ing-jesien-na-swoim-latwy-start-zmienne",
@@ -342,7 +350,7 @@
         "condition": "regularne wpływy na konto"
       },
       "source_url": "https://www.ing.pl/indywidualni/kredyty-i-pozyczki/kredyt-hipoteczny/oferty-i-oprocentowanie",
-      "data_date": "2026-11-19"
+      "data_date": "2026-11-20"
     },
     {
       "slug": "ing-jesien-na-swoim-latwy-start-stale-5-lat",
@@ -372,7 +380,7 @@
         "condition": "regularne wpływy na konto"
       },
       "source_url": "https://www.ing.pl/indywidualni/kredyty-i-pozyczki/kredyt-hipoteczny/oferty-i-oprocentowanie-stale",
-      "data_date": "2026-11-19"
+      "data_date": "2026-11-20"
     },
     {
       "slug": "unicredit-kredyt-hipoteczny-zmienne",
@@ -425,7 +433,7 @@
       },
       "on_resign": "bez konta z wpływami i karty stawka wyższa; bez ubezpieczeń warunki standardowe (stała 7,15–7,55%)",
       "source_url": "https://www.bankbps.pl/klient-indywidualny/kredyty/kredyt-moj-dom",
-      "data_date": "2026-11-19",
+      "data_date": "2026-11-20",
       "valid_to": "2026-11-22",
       "conditions": "Wymaga konta (Twój Plan lub W Twoim Stylu) z wpływami, karty debetowej, bankowości elektronicznej oraz ubezpieczenia na życie (min. 5 lat) i nieruchomości z oferty banku; stawka z kartą Mastercard APIS niższa o 0,10 pkt proc. Stawki ważne do 22.11.2026."
     }
