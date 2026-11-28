@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-27T05:47:28Z",
+ "generated_at": "2026-11-28T05:53:02Z",
  "rates": {
-  "POLSTR1M": 3.48236,
-  "WIBOR3M": 3.9,
-  "WIBOR6M": 3.98
+  "POLSTR1M": 3.48265,
+  "WIBOR3M": 3.88,
+  "WIBOR6M": 3.97
  },
  "offers": [
   {
@@ -26,7 +26,7 @@
    ],
    "conditions": "Dla segmentu Intensive; wymaga ubezpieczenia na życie, zdrowie i utratę pracy z oferty banku na 5 lat. Dodatkowe obniżki marży za wniosek cyfrowy i nieruchomość energooszczędną.",
    "source_url": "https://www.mbank.pl/indywidualny/kredyty/kredyty-hipoteczne/chce-kredyt-hipoteczny/",
-   "data_date": "2026-11-27",
+   "data_date": "2026-11-28",
    "appraisal": {
     "apartment": 400,
     "house": 700
@@ -52,7 +52,7 @@
    ],
    "conditions": "Dla klientów aktywnych (produkt w mBanku od min. 6 miesięcy); wymaga ubezpieczenia na życie, zdrowie i utratę pracy z oferty banku na 5 lat. Promocja do 27.01.2027.",
    "source_url": "https://www.mbank.pl/indywidualny/kredyty/kredyty-hipoteczne/chce-kredyt-hipoteczny/",
-   "data_date": "2026-11-27",
+   "data_date": "2026-11-28",
    "appraisal": {
     "apartment": 400,
     "house": 700
@@ -76,7 +76,7 @@
    ],
    "conditions": "Oferta specjalna Własne M z ubezpieczeniem na życie i nieruchomości z oferty banku, bez prowizji; szczegóły warunków w regulaminie oferty. Stała stopa przez 5 lat, potem zmienna.",
    "source_url": "https://www.aliorbank.pl/klienci-indywidualni/kredyty-hipoteczne/wlasne-m-w-wielkim-miescie.html",
-   "data_date": "2026-11-27",
+   "data_date": "2026-11-28",
    "appraisal": 250
   },
   {
@@ -95,7 +95,7 @@
    ],
    "conditions": "Warunki z ubezpieczeniem na życie i nieruchomości z oferty banku oraz kontem z wpływami min. 2500 zł miesięcznie; bez ubezpieczenia na życie prowizja jest wyższa niż 0%.",
    "source_url": "https://www.bnpparibas.pl/klienci-indywidualni/kredyty/kredyt-hipoteczny-z-niska-marza",
-   "data_date": "2026-11-27",
+   "data_date": "2026-11-28",
    "life_insurance": {
     "pct_of_balance_monthly": 0.04,
     "label": "Ubezpieczenie na życie z oferty banku (0,04% salda miesięcznie)"
@@ -133,7 +133,7 @@
    ],
    "conditions": "Warunki z ubezpieczeniem na życie i nieruchomości z oferty banku oraz kontem z wpływami min. 2500 zł miesięcznie; bez ubezpieczenia na życie prowizja jest wyższa niż 0%. Stała stopa przez 5 lat, potem zmienna.",
    "source_url": "https://www.bnpparibas.pl/klienci-indywidualni/kredyty/kredyt-hipoteczny-z-niska-marza",
-   "data_date": "2026-11-27",
+   "data_date": "2026-11-28",
    "life_insurance": {
     "pct_of_balance_monthly": 0.04,
     "label": "Ubezpieczenie na życie z oferty banku (0,04% salda miesięcznie)"
@@ -169,7 +169,7 @@
    ],
    "conditions": "Wymagane ubezpieczenie na życie i nieruchomości oraz usługi dodatkowe banku; bez prowizji.",
    "source_url": "https://www.credit-agricole.pl/klienci-indywidualni/kredyty-hipoteczne",
-   "data_date": "2026-11-27",
+   "data_date": "2026-11-28",
    "appraisal": 590
   },
   {
@@ -190,7 +190,7 @@
    ],
    "conditions": "Wymagane ubezpieczenie na życie i nieruchomości oraz usługi dodatkowe banku; bez prowizji. Stała stopa przez 7 lat, potem zmienna.",
    "source_url": "https://www.credit-agricole.pl/klienci-indywidualni/kredyty-hipoteczne",
-   "data_date": "2026-11-27",
+   "data_date": "2026-11-28",
    "appraisal": 590
   },
   {
@@ -218,7 +218,7 @@
     "condition": "regularne wpływy na konto"
    },
    "source_url": "https://www.ing.pl/indywidualni/kredyty-i-pozyczki/kredyt-hipoteczny/oferty-i-oprocentowanie",
-   "data_date": "2026-11-27"
+   "data_date": "2026-11-28"
   },
   {
    "slug": "unicredit-kredyt-hipoteczny-zmienne",
@@ -241,7 +241,7 @@
    "commission": 0,
    "min_amount": 0,
    "source_url": "https://unicredit.pl/indywidualni/kredyty/kredyt-hipoteczny-mieszkaniowy",
-   "data_date": "2026-11-27"
+   "data_date": "2026-11-28"
   },
   {
    "slug": "ing-jesien-na-swoim-latwy-start-stale-5-lat",
@@ -269,7 +269,7 @@
     "condition": "regularne wpływy na konto"
    },
    "source_url": "https://www.ing.pl/indywidualni/kredyty-i-pozyczki/kredyt-hipoteczny/oferty-i-oprocentowanie-stale",
-   "data_date": "2026-11-27",
+   "data_date": "2026-11-28",
    "fixed_years": 5,
    "valid_to": "2026-11-29"
   },
@@ -296,7 +296,7 @@
    ],
    "conditions": "Wymaga konta W Twoim Stylu z kartą debetową i bankowością internetową, ubezpieczenia na życie (min. 5 lat) i nieruchomości z oferty banku. Stała stopa przez 5 lat, potem zmienna.",
    "source_url": "https://www.bankbps.pl/klient-indywidualny/kredyty/kredyt-moj-dom",
-   "data_date": "2026-11-27",
+   "data_date": "2026-11-28",
    "valid_to": "2026-11-29"
   },
   {
@@ -313,7 +313,7 @@
     "fee_monthly": 0,
     "condition": "regularne wpływy na konto"
    },
-   "data_date": "2026-11-27",
+   "data_date": "2026-11-28",
    "conditions": "Wymagane konto osobiste w ING z regularnymi wpływami, zawarcie umowy ubezpieczenia (program Bezpieczny Kredyt) i dostęp do bankowości internetowej. Kredyt od 100 000 zł; oferta do 20.12.2026.",
    "slug": "ing-najlepiej-na-swoim-latwy-start-zmienne",
    "product": "Najlepiej na swoim – Łatwy start",
@@ -341,7 +341,7 @@
     "fee_monthly": 0,
     "condition": "regularne wpływy na konto"
    },
-   "data_date": "2026-11-27",
+   "data_date": "2026-11-28",
    "conditions": "Wymagane konto osobiste w ING z regularnymi wpływami, zawarcie umowy ubezpieczenia (program Bezpieczny Kredyt) i dostęp do bankowości internetowej. Kredyt od 100 000 zł; oferta do 20.12.2026. Stała stopa przez 5 lat, potem zmienna.",
    "slug": "ing-najlepiej-na-swoim-latwy-start-stale-5-lat",
    "product": "Najlepiej na swoim – Łatwy start, stała stopa 5 lat",
@@ -380,11 +380,46 @@
    ],
    "conditions": "Dla segmentu Intensive; wymaga ubezpieczenia na życie, zdrowie i utratę pracy z oferty banku na 5 lat. Stała stopa przez 5 lat, potem zmienna.",
    "source_url": "https://www.mbank.pl/indywidualny/kredyty/kredyty-hipoteczne/chce-kredyt-hipoteczny/",
-   "data_date": "2026-11-27",
+   "data_date": "2026-11-28",
    "appraisal": {
     "apartment": 400,
     "house": 700
-   }
+   },
+   "valid_to": "2026-12-02"
+  },
+  {
+   "slug": "alior-wlasne-m-zmienne",
+   "bank": "Alior Bank",
+   "product": "Własne M tam gdzie Ty",
+   "rate_type": "variable",
+   "index": "POLSTR1M",
+   "commission": 0,
+   "min_amount": 100000,
+   "max_amount": 3000000,
+   "tiers": [
+    {
+     "max_ltv": 50,
+     "margin": 1.69
+    },
+    {
+     "max_ltv": 80,
+     "margin": 1.89
+    },
+    {
+     "max_ltv": 90,
+     "margin": 2.59
+    }
+   ],
+   "appraisal": 250,
+   "account": {
+    "name": "Konto osobiste Alior Banku",
+    "fee_monthly": 0,
+    "condition": "wpływy min. 3 000 zł miesięcznie i min. 5 płatności kartą/BLIK w miesiącu"
+   },
+   "on_resign": "bez ubezpieczenia na życie: marża +1 pkt proc.; bez konta, wpływów lub płatności kartą: +0,5 pkt proc.; bez ubezpieczenia nieruchomości: +0,1 pkt proc.",
+   "conditions": "Wymaga konta osobistego w Alior Banku z wpływami min. 3 000 zł miesięcznie, min. 5 płatności kartą lub BLIK w miesiącu, aplikacji mobilnej i ubezpieczenia na życie z oferty banku (opłacone z góry na 5 lat). Oferta bezterminowa.",
+   "source_url": "https://www.aliorbank.pl/klienci-indywidualni/kredyty-hipoteczne/wlasne-m-w-wielkim-miescie.html",
+   "data_date": "2026-11-28"
   }
  ]
 }
